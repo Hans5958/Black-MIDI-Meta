@@ -1,0 +1,8 @@
+theme: 'readthedocs'
+site_name: 'Black MIDI Meta Docs'
+site_description: 'Documentation of Black MIDI Meta texts and stuffs.'
+site_author: 'Hans5958'
+site_url: 'https://hans5958.github.io/Black-MIDI-Meta-Docs'
+google_analytics: ['UA-49890594-3', 'auto']
+repo_name: 'GitHub'
+repo_url: 'https://github.com/Hans5958/Black-MIDI-Meta-Docs'
