@@ -6,3 +6,7 @@ site_url: 'https://hans5958.github.io/Black-MIDI-Meta-Docs'
 google_analytics: ['UA-49890594-3', 'auto']
 repo_name: 'GitHub'
 repo_url: 'https://github.com/Hans5958/Black-MIDI-Meta-Docs'
+pages: 
+    - 'Main Page': 'index.md'
+    - 'Links': 'links.md'
+    - 'Discord Servers': 'discord.md'
