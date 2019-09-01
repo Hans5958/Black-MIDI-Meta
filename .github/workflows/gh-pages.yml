@@ -1,24 +1,27 @@
-name: gh-deploy
-
-on:
-  push:
-    branches:
-    - master
-
+on: 
+  push: 
+    branches: master
+name: Automate gh-deploy
 jobs:
-  build-deploy:
-    runs-on: ubuntu-18.04
+  branch-filter:
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: build
-      uses: peaceiris/actions-hugo@v0.57.2
-      if: github.event.deleted == false
+    - name: branch-filter
+      uses: actions/bin/filter@master
       with:
-        args: --gc --minify --cleanDestinationDir
+        args: branch master
+    - name: pipenv-sync
+      uses: peaceiris/actions-pipenv@3.6
+      with:
+        args: sync
+    - name: mkdocs-build
+      uses: peaceiris/actions-pipenv@3.6
+      with:
+        args: run mkdocs build
     - name: deploy
       uses: peaceiris/actions-gh-pages@v1.1.0
-      if: success()
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./public
+        PUBLISH_DIR: ./site
