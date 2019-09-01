@@ -18,7 +18,7 @@ jobs:
     - name: mkdocs-build
       uses: jefftriplett/python-actions@master
       with:
-        args: pip run mkdocs build
+        args: mkdocs build
     - name: deploy
       uses: peaceiris/actions-gh-pages@v1.1.0
       env:
