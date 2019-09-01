@@ -20,7 +20,7 @@
 - MBMS
 - Mr Blackmidi
 - Nico de Tepez
-- ooo 0000
+- ooo 000
 - Paku 15000
 - PipiraMine
 - RedSlimeballYT
