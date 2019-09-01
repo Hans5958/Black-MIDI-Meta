@@ -11,14 +11,14 @@ jobs:
       uses: actions/bin/filter@master
       with:
         args: branch master
-    - name: pipenv-sync
-      uses: peaceiris/actions-pipenv@3.6
+    - name: pip
+      uses: jefftriplett/python-actions@master
       with:
-        args: sync
+        args: pip install mkdocs
     - name: mkdocs-build
-      uses: peaceiris/actions-pipenv@3.6
+      uses: jefftriplett/python-actions@master
       with:
-        args: run mkdocs build
+        args: pip run mkdocs build
     - name: deploy
       uses: peaceiris/actions-gh-pages@v1.1.0
       env:
