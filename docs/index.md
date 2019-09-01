@@ -8,7 +8,7 @@ The docs and the repository is still work-in-progress. You can contribute if you
 
 ## Credits
 
-See [Credits](credits.md)
+See [Credits](credits.html) and [Sources](https://github.com/Hans5958/Black-MIDI-Meta/blob/master/SOURCES.md).
 
 # Contribute
 
