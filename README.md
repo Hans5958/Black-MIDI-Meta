@@ -1,14 +1,16 @@
-<h1>Black MIDI Meta Docs</h1>
+# Black MIDI Meta
 
 > Repository of Black MIDI Meta texts and stuffs.
 
-Welcome to the docs. In this repository, I post some meta stuff, such as Discord servers, links, archives, etc.
+Welcome to the repository. In this repository, I post some meta stuff, such as Discord servers, links, archives, etc
 
 The docs and the repository is still work-in-progress. You can contribute if you want to.
 
+You can read the docs on https://hans5958.github.io/Black-MIDI-Meta.
+
 ## Credits
 
-See [Credits](credits.md)
+See [Credits](docs/credits/index.md)
 
 # Contribute
 
