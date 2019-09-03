@@ -6,6 +6,8 @@ Welcome to the docs. In this repository, I post some meta stuff, such as Discord
 
 The docs and the repository is still work-in-progress. You can contribute if you want to.
 
+You can see the repository on [https://github.com/Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta).
+
 ## Credits
 
 See [Credits](credits.html) and [Sources](https://github.com/Hans5958/Black-MIDI-Meta/blob/master/SOURCES.md).
