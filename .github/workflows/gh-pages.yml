@@ -24,11 +24,10 @@ jobs:
       with:
         args: mkdocs build
     - name: Deploy 1
-      uses: peaceiris/actions-gh-pages@v1.1.0
+      uses: JamesIves/github-pages-deploy-action@master
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./site
-    - name: Deploy 2
-      uses: JamesIves/github-pages-deploy-action@2.0.0
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: site
+        BUILD_SCRIPT: npm install && npm run-script build
 
