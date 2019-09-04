@@ -7,25 +7,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: branch-filter
+    - name: Branch Filter
       uses: actions/bin/filter@master
       with:
         args: branch master
-    - name: pip mkdocs
+    - name: Install mkdocs
       uses: jefftriplett/python-actions@master
       with:
         args: pip install mkdocs
-    - name: pip mkdocs-cinder
+    - name: Install mkdocs-cinder
       uses: jefftriplett/python-actions@master
       with:
         args: pip install mkdocs-cinder
-    - name: mkdocs-build
+    - name: MkDocs Build
       uses: jefftriplett/python-actions@master
       with:
         args: mkdocs build
-    - name: deploy
+    - name: Deploy 1
       uses: peaceiris/actions-gh-pages@v1.1.0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./site
+    - name: Deploy 2
+      uses: JamesIves/github-pages-deploy-action@2.0.0
+
