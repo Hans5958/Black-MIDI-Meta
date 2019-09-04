@@ -1,4 +1,4 @@
-theme: 'readthedocs'
+theme: 'cinder'
 site_name: 'Black MIDI Meta Docs'
 site_description: 'Documentation of Black MIDI Meta texts and stuffs.'
 site_author: 'Hans5958'
