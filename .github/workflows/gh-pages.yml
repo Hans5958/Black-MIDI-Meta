@@ -11,10 +11,14 @@ jobs:
       uses: actions/bin/filter@master
       with:
         args: branch master
-    - name: pip
+    - name: pip mkdocs
       uses: jefftriplett/python-actions@master
       with:
         args: pip install mkdocs
+    - name: pip mkdocs-cinder
+      uses: jefftriplett/python-actions@master
+      with:
+        args: pip install mkdocs-cinder
     - name: mkdocs-build
       uses: jefftriplett/python-actions@master
       with:
