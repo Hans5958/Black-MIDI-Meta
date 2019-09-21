@@ -5,29 +5,48 @@
 ## Resources Pack
 
 - Arduano
-- MBMS
-- ETOT
-- ooo 0000
-- Kitsune
-- umbry
-- Nico de Tepez
-- lushun
-- YMI Black Moon
-- WoofFace4000
-- s0m3guy
 - AwesomeGamer89
-- YAMAHAPSR 800
-- GamingMIDI
-- Paku 15000
-- RedSlimeballYT
-- Xanderoskaup 8000
-- BKB10
-- lennon
-- BoogerBorg
-- wwei23
-- Colin_Rafael_Alcala_Perez
-- Logo The Pizza Pie
 - B00ie23
+- BKB10
+- BoogerBorg
+- Colin_Rafael_Alcala_Perez
+- ETOT
+- GamingMIDI
+- KaleidonKep99
+- Kitsune
+- lennon
+- Logo The Pizza Pie
+- lushun
+- MBMS
 - Mr Blackmidi
+- Nico de Tepez
+- ooo 0000
+- Paku 15000
+- PipiraMine
+- RedSlimeballYT
+- s0m3guy
+- umbry
+- WoofFace4000
+- wwei23
+- Xanderoskaup 8000
+- YAMAHAPSR 800
+- YMI Black Moon
+
+## Software Archive
+
+- Alexander Verevkin/DixelU
+- arduano
+- Brian Pantano
+- Carlos S. M.
+- Conjac Charlie Yan
+- GamingMIDI
 - KaleidonKep99
 - PipiraMine
+- s0m3guy
+- sono
+- Ste-Art
+- TabakoSoft
+- TheGhastModding/89Mods
+- Tom Grandgent
+- VirtuosicAI
+- yossiepon
