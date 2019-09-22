@@ -10,7 +10,7 @@ You can see the repository on [https://github.com/Hans5958/Black-MIDI-Meta](http
 
 ## Credits
 
-See [Credits](credits.html) and [Sources](https://github.com/Hans5958/Black-MIDI-Meta/blob/master/SOURCES.md).
+See [Credits](https://github.com/Hans5958/Black-MIDI-Meta/blob/master/CREDITS.md) and [Sources](https://github.com/Hans5958/Black-MIDI-Meta/blob/master/SOURCES.md).
 
 # Contribute
 
