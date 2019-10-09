@@ -6,13 +6,39 @@ Welcome to the docs. In this repository, I post some meta stuff, such as Discord
 
 The docs and the repository is still work-in-progress. You can contribute if you want to.
 
-You can see the repository on [https://github.com/Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta).
+### Black MIDI Meta
+
+Black MIDI Meta is a repository for Black MIDI meta stuff.
+
+You can visit the repo on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)).
+
+### Black MIDI Meta Docs
+
+Black MIDI Meta Docs is a documentation for Black MIDI meta texts, such as lists and theories. You are in it now.
+
+You can read the docs on <https://hans5958.github.io/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMetaDocs)).
+
+### List of Largest MIDIs
+
+This is a list for the large MIDI songs that the community has ever made.
+
+This list was actually long abandoned by wiki contributors, so there are lots of MIDIs that's not on the list. Because of that, I try to maintain it as long as I can. The list has developed from as small as 124 songs to as big as over 300 songs.
+
+The update is monthly and you can submit MIDIs by contacting me in any way you can, such as Discord or the wiki page.
+
+You can visit the Google Drive spreadsheet in <https://px.tru.io/r/BMLL> ([direct link](https://docs.google.com/spreadsheets/u/1/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit?usp=sharing)). Otherwise, you can check the list on the wiki page [here](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs).
+
+### Black MIDI Software Archive
+
+Black MIDI Software Archive is an archive of softwares that is used on the Black MIDI community and hosted in Google Drive. It consist of more than 30 softwares from various developers. Each softwares consist public versions and test versions that are public.
+
+You can visit the archive in <https://px.tru.io/r/BMSA> ([direct link](https://drive.google.com/drive/folders/1K3DytP7EXvFBuYV3CQQQ7BYRuY3iESaC?usp=sharing)).
 
 ## Credits
 
 See [Credits](https://github.com/Hans5958/Black-MIDI-Meta/blob/master/CREDITS.md) and [Sources](https://github.com/Hans5958/Black-MIDI-Meta/blob/master/SOURCES.md).
 
-# Contribute
+## Contribute
 
 When contributing, it is best to discuss it first via an issue, e-mail, or other methods of contact. Please note that we have a code of conduct that you should follow in any interactions.
 
