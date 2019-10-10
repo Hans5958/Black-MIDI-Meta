@@ -58,8 +58,9 @@
 
 ## Other Useful Links
 
-| Name                     | Link                                                                                  | Description                                             |
-| ------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| Black MIDI Community Hub | <https://discord.gg/s42aft8>                                                          | has a channel for software, soundfonts, midis, and more |
-| Carlos S.M.'s Publico    | <https://drive.google.com/drive/u/0/folders/0B-jbdgbiY_-YYm5WemFvTkM0Tnc>             | archive by Carlos S.M., not frequently updated          |
-| List of Largest MIDIs    | <https://docs.google.com/spreadsheets/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk> | list of large MIDIs, sorted by notes                    |
+| Name                        | Link                                                                      | Description                                              |
+| --------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Black MIDI Community Hub    | <https://discord.gg/s42aft8>                                              | has a channel for software, soundfonts, midis, and more  |
+| Carlos S.M.'s Publico       | <https://drive.google.com/drive/u/0/folders/0B-jbdgbiY_-YYm5WemFvTkM0Tnc> | archive by Carlos S.M., not frequently updated           |
+| List of Largest MIDIs       | <https://px.tru.io/BMLargeList>                                           | list of large MIDIs, sorted by notes                     |
+| Black MIDI Software Archive | <https://px.tru.io/BMSoftwareArchive>                                     | my own archive of softwares that's used by the community |
