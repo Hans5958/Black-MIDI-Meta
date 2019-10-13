@@ -1,0 +1,23 @@
+language: python
+python: 3.6
+branches: master
+
+install:
+    - pip install mkdocs 
+    - pip install mkdocs-cinder
+
+script: true 
+
+before_deploy:
+    - mkdocs build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: false
+  local_dir: site
+  on:
+    branch: gh-pages
+
+sudo: false
