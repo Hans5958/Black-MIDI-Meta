@@ -20,7 +20,7 @@
 
 | Name             | Link                                                           | Description             |
 | ---------------- | -------------------------------------------------------------- | ----------------------- |
-| OmniMIDI         | <https://github.com/KeppySoftware/OmniMIDI/releases>           | most optimised          |
+| OmniMIDI         | <https://github.com/KeppySoftware/OmniMIDI/releases>           | most optimized          |
 | VirtualMIDISynth | <https://coolsoft.altervista.org/en/virtualmidisynth#download> | standard, was most used |
 
 ### Tools
@@ -37,7 +37,7 @@
 | V2M                       | <https://discord.gg/uxCqAEz>                                                                         | get it on the Discord server     |
 | Note Counter Generator    | <https://discord.gg/uxCqAEz>                                                                         | get it on the Discord server     |
 
-### MIDI and Audio Ediors
+### MIDI and Audio Editors
 
 | Name         | Link                                   | Description                                        |
 | ------------ | -------------------------------------- | -------------------------------------------------- |
