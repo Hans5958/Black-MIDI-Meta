@@ -19,13 +19,14 @@
 
 ## Members
 
-| Server Name             | Server Invite                | Description             |
-| ----------------------- | ---------------------------- | ----------------------- |
-| EpreTroll Federation    | <https://discord.gg/gVkfqxS> | EpreTroll               |
-| iii 111 and ooo 000     | <https://discord.gg/uxCqAEz> | Charlie Yan and ooo 000 |
-| MBMS World              | <https://discord.gg/q9B59mT> | MBMS                    |
-| MusiVerse               | <https://discord.gg/3FZCgbk> | MusiMasta               |
-| Uyasey's Discord Server | <https://discord.gg/cK5fcyd> | Uyasey                  |
+| Server Name              | Server Invite                | Description             |
+| -------------------------| ---------------------------- | ----------------------- |
+| EpreTroll Federation     | <https://discord.gg/gVkfqxS> | EpreTroll               |
+| iii 111 and ooo 000      | <https://discord.gg/uxCqAEz> | Charlie Yan and ooo 000 |
+| MBMS World               | <https://discord.gg/q9B59mT> | MBMS                    |
+| MusiVerse                | <https://discord.gg/3FZCgbk> | MusiMasta               |
+| Uyasey's Discord Server  | <https://discord.gg/cK5fcyd> | Uyasey                  |
+| LucasMIDI Hangout        | <https://discord.gg/PK9VMv3> | Lucas9810               |
 
 
 ## Public Collaboration
