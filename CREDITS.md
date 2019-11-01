@@ -1,5 +1,13 @@
 # Credits
 
+## Contributors
+
+Thanks to the GitHub users that contributes to the repository.
+
+- @Lucas9810
+
+*(P.S. You can also add your name here with your pull request.)*
+
 ## List of Largest MIDIs
 
 Thanks to each of the contributors that helped me on the list.
@@ -29,7 +37,12 @@ Thanks to each of the contributors that helped me on the list.
 - [Ryan 0201/umbry][umbry]
   - Minor help (pinning the message i guess)
 
-## Meta Docs Contributors
+## Meta Docs
+
+Thanks to ...
+
+- ...each of the Discord owners that is listed on the Discord page.
+- ...each of the link owners that is listed on the Links page.
 
 ## Resources Pack
 
@@ -48,6 +61,7 @@ Thanks to each of the resource pack creators.
 - [Logo The Pizza Pie]
 - lushun
 - [MBMS]
+- [MotdHS]
 - [Mr Blackmidi]
 - [Nico de Tepez]
 - [ooo 000]
@@ -61,6 +75,7 @@ Thanks to each of the resource pack creators.
 - Xanderoskaup 8000
 - YAMAHAPSR 800
 - [YMI Black Moon]
+- [ZoneGamer]
 
 ## Software Archive
 
@@ -76,6 +91,7 @@ Thanks to each of the software developers.
 - [KaleidonKep99]
 - mput
 - [PipiraMine]
+- Scott Haag
 - [sono]
 - [Ste-Art]
 - [Synthesia LLC]
@@ -107,6 +123,7 @@ Thanks to each of the people that helped me to complete the archive.
 [Kitsune]: https://www.youtube.com/channel/UCJxA_wgmtCnXYdaN0eXJEiA
 [Logo The Pizza Pie]: https://www.youtube.com/channel/UC9RWBfjFEXAnuU8Qo-ZEzwA
 [MBMS]: https://www.youtube.com/channel/UCebBBBCMokhPzdIrbGnfamA
+[MotdHS]: https://www.youtube.com/channel/UCK8lxVxfEUwvU7QA9DxCwbQ
 [Mr Blackmidi]: https://www.youtube.com/channel/UCwQENY_WSJy_TycwMaVvgPA
 [Nico de Tepez]: https://www.youtube.com/channel/UCw5rtBnre-p0OpZ9--Uf1vA
 [ooo 000]: https://www.youtube.com/channel/UCj5aJdbTvtt3xcJwHoRvHMQ
@@ -125,3 +142,4 @@ Thanks to each of the people that helped me to complete the archive.
 [WoofFace4000]: https://www.youtube.com/channel/UCjJLFiZBAAVgfwaBQeM33Kw
 [YMI Black Moon]: https://www.youtube.com/channel/UCWV7v8TH1W3Swld8GgxLNXg
 [yossiepon]: https://osdn.net/users/yoshy/
+[ZoneGamer]: https://www.youtube.com/channel/UC88ehQR5tu4y_ili7-jlkEA
