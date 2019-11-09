@@ -174,6 +174,16 @@
 - https://cdn.discordapp.com/attachments/569034019266887690/623433012180418560/kellyPIANO.zip
 - https://cdn.discordapp.com/attachments/569034019266887690/623480107507646465/kellyPIANO.zip
 - https://cdn.discordapp.com/attachments/569034019266887690/625824975407808512/ETOTs_Pack_1.0.2.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/626772312825528320/Deep_Fry.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/631770822293585922/Silver_keys.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/632794090299457546/Silver_keys.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/634392648366555187/Pc_Skin_1.0.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/635380505482756107/Silver_keys.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/636485808152641562/Silver_keys.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/636496077008404490/Silver_keys.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/636868241242718218/Rainbow_v2.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/641311515747680286/Zone_Pack_v.1.1.rar
+- https://cdn.discordapp.com/attachments/569034019266887690/641322711506878504/Freeway.rar
 
 </details>
 
@@ -190,6 +200,7 @@
 
 ### arduano/Kiva
 
+- https://github.com/arduano/Kiva/releases (grd)
 - Zenith Dev Server (Discord server)
   - https://cdn.discordapp.com/attachments/593016777311518721/625664646594166784/Kiva-MIDI.exe
   - https://cdn.discordapp.com/attachments/593016777311518721/625664757269266433/Kiva-MIDI.exe
