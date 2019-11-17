@@ -184,6 +184,9 @@
 - https://cdn.discordapp.com/attachments/569034019266887690/636868241242718218/Rainbow_v2.zip
 - https://cdn.discordapp.com/attachments/569034019266887690/641311515747680286/Zone_Pack_v.1.1.rar
 - https://cdn.discordapp.com/attachments/569034019266887690/641322711506878504/Freeway.rar
+- https://cdn.discordapp.com/attachments/569034019266887690/642872149035712520/TGMs_Video_Generator.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/643688778686398474/Poopy_Piano.zip
+- https://cdn.discordapp.com/attachments/569034019266887690/644826492731260956/Silver_keys__j3rmiis_custom_RGB_Pallete.zip
 
 </details>
 
@@ -202,8 +205,6 @@
 
 - https://github.com/arduano/Kiva/releases (grd)
 - Zenith Dev Server (Discord server)
-  - https://cdn.discordapp.com/attachments/593016777311518721/625664646594166784/Kiva-MIDI.exe
-  - https://cdn.discordapp.com/attachments/593016777311518721/625664757269266433/Kiva-MIDI.exe
 
 ### arduano/Zenith-MIDI
 
@@ -234,47 +235,13 @@
 ### CharlieYan-W2M
 
 - Black MIDI Community Hub (Discord server)
-  - https://cdn.discordapp.com/attachments/221076838389121024/552437779942866950/w2m_by_charlieyan.7z
 - W2M (Discord server)
-  - https://cdn.discordapp.com/attachments/440645019179810838/595929997198491648/MyPiano2.1.sf2
-  - https://cdn.discordapp.com/attachments/440645019179810838/595930196700299274/main.py
-  - https://cdn.discordapp.com/attachments/440645019179810838/595930319484354581/main1200BPM.py
 
 ### CoolSoft VirtualMIDISynth
 
 <details><summary>Long list, click for details.</summary>
 
 - https://coolsoft.altervista.org/en/virtualmidisynth
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.10.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.10.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.12.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.12.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.13.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.14.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.14.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.15.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.15.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.15.2.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.16.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.16.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.17.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.17.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.8.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.8.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.8.2.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.9.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.9.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_1.9.2.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.0.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.0.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.1.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.2.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.3.2.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.4.1.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.5.4.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.6.0.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.7.2.exe
-  - https://coolsoft.altervista.org/en/download/CoolSoft_VirtualMIDISynth_2.7.3.exe
 - Carlos S. M.'s Publico
 
 </details>
@@ -290,10 +257,6 @@
 ### Domino
 
 - http://takabosoft.com/
-  - http://takabosoft.com/download/win/domino/Domino141a.ZIP
-  - http://takabosoft.com/download/win/domino/Domino141b.ZIP
-  - http://takabosoft.com/download/win/domino/Domino142.ZIP
-  - http://takabosoft.com/download/win/domino/Domino143.zip
 
 ### GamingMIDI-BetterPFA
 
@@ -323,6 +286,10 @@
 
 - https://github.com/KaleidonKep99/PianoFromAboveConfigurator/releases (grd)
 
+### MAMPlayer
+
+- https://www.musanim.com/Player/
+
 ### MewnoJinsei-W2M
 
 - W2M (Discord server)
@@ -333,81 +300,6 @@
 <details><summary>Long list, click for details.</summary>
 
 - https://osdn.net/projects/miditrail/releases/
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/47684/MIDITrail-Ver.1.0.0.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/47684/MIDITrail-Ver.1.0.0src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/47758/MIDITrail-Ver.1.0.1.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/47758/MIDITrail-Ver.1.0.1src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/47940/MIDITrail-Ver.1.0.2.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/47940/MIDITrail-Ver.1.0.2src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48251/MIDITrail-Ver.1.0.3.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48251/MIDITrail-Ver.1.0.3src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48413/MIDITrail-Ver.1.0.4.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48413/MIDITrail-Ver.1.0.4src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48527/MIDITrail-Ver.1.0.5.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48527/MIDITrail-Ver.1.0.5src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48740/MIDITrail-Ver.1.1.0beta.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/48740/MIDITrail-Ver.1.1.0betasrc.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/49014/MIDITrail-Ver.1.1.0.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/49014/MIDITrail-Ver.1.1.0src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/49403/MIDITrail-Ver.1.1.1.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/49403/MIDITrail-Ver.1.1.1src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/50341/MIDITrail-Ver.1.1.2-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/50341/MIDITrail-Ver.1.1.2-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/50342/MIDITrail-Ver.1.1.2-MacOSX_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/50342/MIDITrail-Ver.1.1.2-MacOSX.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/54303/MIDITrail-Ver.1.1.3a-MacOSX_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/54303/MIDITrail-Ver.1.1.3a-MacOSX.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/54578/MIDITrail-Ver.1.1.3-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/54578/MIDITrail-Ver.1.1.3-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/54883/MIDITrail-Ver.1.2.0-MacOSX_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/54883/MIDITrail-Ver.1.2.0-MacOSX.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/55129/MIDITrail-Ver.1.2.0-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/55129/MIDITrail-Ver.1.2.0-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/56665/MIDITrail-Ver.1.0.0-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/59975/MIDITrail-Ver.1.2.1-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/59975/MIDITrail-Ver.1.2.1-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/60194/MIDITrail-Ver.1.2.1-MacOSX_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/60194/MIDITrail-Ver.1.2.1-MacOSX.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/60305/MIDITrail-Ver.1.0.1-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/60640/MIDITrail-Ver.1.2.1a-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/60640/MIDITrail-Ver.1.2.1a-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/60640/MIDITrail-Ver.1.2.1a-Windows64.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/61015/MIDITrail-Ver.1.2.1b-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/61015/MIDITrail-Ver.1.2.1b-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/61015/MIDITrail-Ver.1.2.1b-Windows64.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/64107/MIDITrail-Ver.1.2.2-MacOSX_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/64107/MIDITrail-Ver.1.2.2-MacOSX.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/66812/MIDITrail-Ver.1.2.2-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/66812/MIDITrail-Ver.1.2.2-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/66812/MIDITrail-Ver.1.2.2-Windows64.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/67161/MIDITrail-Ver.1.1.0-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/67162/MIDITrail-Ver.1.1.1-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/68138/MIDITrail-Ver.1.2.3-macOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/68138/MIDITrail-Ver.1.2.3-macOS.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/68482/MIDITrail-Ver.1.2.3-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/68482/MIDITrail-Ver.1.2.3-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/68482/MIDITrail-Ver.1.2.3-Windows64.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/68935/MIDITrail-Ver.1.1.2-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/69073/MIDITrail-Ver.1.2.0-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70126/MIDITrail-Ver.1.2.1-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70595/MIDITrail-Ver.1.2.2-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70617/MIDITrail-Ver.1.2.4-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70617/MIDITrail-Ver.1.2.4-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70617/MIDITrail-Ver.1.2.4-Windows64.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70811/MIDITrail-Ver.1.2.3-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70991/MIDITrail-Ver.1.2.4-macOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/70991/MIDITrail-Ver.1.2.4-macOS.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71069/MIDITrail-Ver.1.2.5-macOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71069/MIDITrail-Ver.1.2.5-macOS.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71079/MIDITrail-Ver.1.2.4-iOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71110/MIDITrail-Ver.1.2.5-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71110/MIDITrail-Ver.1.2.5-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71110/MIDITrail-Ver.1.2.5-Windows64.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71183/MIDITrail-Ver.1.2.6-macOS_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71183/MIDITrail-Ver.1.2.6-macOS.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71184/MIDITrail-Ver.1.2.6-Windows_src.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71184/MIDITrail-Ver.1.2.6-Windows.zip
-  - https://osdn.net/frs/redir.php?m=xtom_hk&f=miditrail/71184/MIDITrail-Ver.1.2.6-Windows64.zip
   
 </details>
 
@@ -416,28 +308,7 @@
 <details><summary>Long list, click for details.</summary>
 
 - https://osdn.net/users/yoshy/pf/MIDITrailMod/wiki/FrontPage
-  - https://osdn.net/frs/chamber_redir.php?m=gigenet&f=users/11/11223/MIDITrail-Ver.1.2.0-mod_yossiepon_20121229_886c22a.zip
-  - https://osdn.net/frs/chamber_redir.php?m=gigenet&f=users/11/11224/MIDITrail-Ver.1.2.1b-mod_yossiepon_20140920_ee771fd.zip
-  - https://osdn.net/frs/chamber_redir.php?m=gigenet&f=users/11/11392/MIDITrail-Ver.1.2.2-mod_yossiepon_20161223_6e6f46e.zip
-  - https://osdn.net/frs/chamber_redir.php?m=gigenet&f=users/17/17236/MIDITrail-Ver.1.2.3-mod_yossiepon_20180412_8a40226.ZIP
-  - https://osdn.net/frs/chamber_redir.php?m=gigenet&f=users/24/24412/MIDITrail-Ver.1.2.6-mod_yossiepon_20190828_ae95cbd.ZIP
 - http://canonical.rulez.jp/MIDITrailMod/
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20120318_src.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20120318.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20120320_src.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20120320.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20120730.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20120731_src.ZIP
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20121229_src.ZIP
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.0-mod_yossiepon_20121229.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.1b-mod_yossiepon_20140920_src.ZIP
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.1b-mod_yossiepon_20140920.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.2-mod_yossiepon_20161223_src.ZIP
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.2-mod_yossiepon_20161223.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.3-mod_yossiepon_20180412_src.zip
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.3-mod_yossiepon_20180412.ZIP
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.6-mod_yossiepon_20190828_ae95cbd.ZIP
-  - http://canonical.rulez.jp/MIDITrailMod/MIDITrail-Ver.1.2.6-mod_yossiepon_20190828_src.zip
   
 </details>
 
@@ -454,19 +325,6 @@
 <details><summary>Long list, click for details.</summary>
 
 - https://bitbucket.org/steart/pianofall/wiki/Home
-  - https://www.dropbox.com/s/2ahaudcd17jkqhn/Pianofall_v0.4.1_x64.zip?dl=0
-  - https://www.dropbox.com/s/7kk8riunsnimvmk/Pianofall_v0.4.1_x86.zip?dl=0
-  - https://www.dropbox.com/s/jkvqma9ktyvwg7r/Pianofall_v0.4.1_Linux.zip?dl=0
-  - https://www.dropbox.com/s/qjiefoypbxdiwts/Pianofall_v0.4_x64.zip?dl=0
-  - https://www.dropbox.com/s/t1r81x47tcdv4z7/Pianofall_v0.4_x86.zip?dl=0
-  - https://www.dropbox.com/s/zuw69t5rz3v8p65/Pianofall_v0.4_Linux.zip?dl=0
-  - https://www.dropbox.com/s/xcjq1ajttbv8303/Pianofall_v0.3_x64.zip?dl=0
-  - https://www.dropbox.com/s/zua7gxhdel2xxmr/Pianofall_v0.3_x86.zip?dl=0
-  - https://www.dropbox.com/s/3v4bt9rfga893gd/Pianofall_v0.3_Linux.zip?dl=0
-  - https://www.dropbox.com/s/tx7eawe2252w89d/Pianofall_v0.2_x64.zip?dl=0
-  - https://www.dropbox.com/s/x4ts9n9uoq6z7pg/Pianofall_v0.2_x86.zip?dl=0
-  - https://www.dropbox.com/s/44vdmk4afqiuynv/Pianofall_v0.1_x64.zip?dl=0
-  - https://www.dropbox.com/s/i38tv41ksb85bp5/Pianofall_v0.1_x86.zip?dl=0
   
 </details>
 
@@ -476,41 +334,12 @@
 
 - Carlos S. M.'s Publico
 - https://synthesiagame.com/download
-  - https://synthesiagame.com/get?platform=mac
-  - https://synthesiagame.com/get?platform=mac&version=10
-  - https://synthesiagame.com/get?platform=mac&version=10.1
-  - https://synthesiagame.com/get?platform=mac&version=10.2
-  - https://synthesiagame.com/get?platform=mac&version=10.3
-  - https://synthesiagame.com/get?platform=mac&version=10.4
-  - https://synthesiagame.com/get?platform=mac&version=10.5
-  - https://synthesiagame.com/get?platform=mac&version=10.5.1
-  - https://synthesiagame.com/get?platform=mac&version=9
-  - https://synthesiagame.com/get?platform=win
-  - https://synthesiagame.com/get?platform=win_sa
-  - https://synthesiagame.com/get?platform=win_sa&version=10
-  - https://synthesiagame.com/get?platform=win_sa&version=10.1
-  - https://synthesiagame.com/get?platform=win_sa&version=10.2
-  - https://synthesiagame.com/get?platform=win_sa&version=10.3
-  - https://synthesiagame.com/get?platform=win_sa&version=10.4
-  - https://synthesiagame.com/get?platform=win_sa&version=10.5
-  - https://synthesiagame.com/get?platform=win_sa&version=10.5.1
-  - https://synthesiagame.com/get?platform=win_sa&version=9
-  - https://synthesiagame.com/get?platform=win&version=10
-  - https://synthesiagame.com/get?platform=win&version=10.1
-  - https://synthesiagame.com/get?platform=win&version=10.2
-  - https://synthesiagame.com/get?platform=win&version=10.3
-  - https://synthesiagame.com/get?platform=win&version=10.4
-  - https://synthesiagame.com/get?platform=win&version=10.5
-  - https://synthesiagame.com/get?platform=win&version=10.5.1
-  - https://synthesiagame.com/get?platform=win&version=9
   
 </details>
 
 ### Synthesia Video Creator
 
 - https://synthesiagame.com/download
-  - https://s3.amazonaws.com/synthesia/files/SynthesiaVideoCreator-10.4-mac.zip
-  - https://s3.amazonaws.com/synthesia/files/SynthesiaVideoCreator-10.4-win.zip
  
 ### Synthesia-LLC/metadata-editor
 
@@ -527,10 +356,6 @@
 ### Tom's MIDI Player
 
 - http://www.grandgent.com/tom/projects/tmidi/
-  - http://www.grandgent.com/tom/projects/tmidi/tmidi.exe
-  - http://www.grandgent.com/tom/projects/tmidi/TMIDI64.exe
-  - http://www.grandgent.com/tom/projects/tmidi/tmidisrc_2015_04_24.zip
-  - http://www.grandgent.com/tom/projects/tmidi/tmidisrc.zip
   
 ### Ultralight MIDI Player
 

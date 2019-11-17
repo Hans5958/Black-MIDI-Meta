@@ -68,6 +68,7 @@ Thanks to each of the resource pack creators.
 - [Paku 15000]
 - [PipiraMine]
 - RedSlimeballYT
+- TheCatgamer137YT
 - [s0m3guy]
 - [umbry]
 - [WoofFace4000]
@@ -94,6 +95,7 @@ Thanks to each of the software developers.
 - Scott Haag
 - [sono]
 - [Ste-Art]
+- [Stephen Malinowski]
 - [Synthesia LLC]
 - [TabakoSoft]
 - [TheGhastModding/89Mods][TheGhastModding]
@@ -133,6 +135,7 @@ Thanks to each of the people that helped me to complete the archive.
 [s0m3guy]: https://www.youtube.com/channel/UCrKBQFk92xGQwbHbiB6dvQg
 [sono]: https://sono.9net.org/
 [Ste-Art]: https://www.youtube.com/channel/UCKoxps5l9nJYjLrVBJstO1A
+[Stephen Malinowski]: http://www.stephenmalinowski.com/
 [Synthesia LLC]: https://synthesiagame.com/
 [TabakoSoft]: http://takabosoft.com/
 [TheGhastModding]: https://www.youtube.com/channel/UCB8EPwooLFYoApIaXK3jpRg
