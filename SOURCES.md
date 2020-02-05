@@ -198,13 +198,13 @@
 
 ### arduano
 
-- Zenith Dev Server (Discord server)
+- Arduano Dev Server (Discord server)
 - Black MIDI Community Hub (Discord server)
 
 ### arduano/Kiva
 
 - https://github.com/arduano/Kiva/releases (grd)
-- Zenith Dev Server (Discord server)
+- Arduano Dev Server (Discord server)
 
 ### arduano/Zenith-MIDI
 
@@ -226,25 +226,29 @@
 
 ### CharlieYan-128to256
 
-- iii 111 and ooo 000 (Discord server)
-
-### CharlieYan-CounterGenerator
-
-- iii 111 and ooo 000 (Discord server)
+- CJC Apps & 花抄抄大爷 (Discord server)
 
 ### CharlieYan-W2M
 
 - Black MIDI Community Hub (Discord server)
 - W2M (Discord server)
 
-### CoolSoft VirtualMIDISynth
+### CJC's Advanced MIDI Merger
 
-<details><summary>Long list, click for details.</summary>
+- CJC Apps & 花抄抄大爷 (Discord server)
+
+### CJC's MIDI Counter Generator
+
+- CJC Apps & 花抄抄大爷 (Discord server)
+
+### CJC's Overlap Remover
+
+- CJC Apps & 花抄抄大爷 (Discord server)
+
+### CoolSoft VirtualMIDISynth
 
 - https://coolsoft.altervista.org/en/virtualmidisynth
 - Carlos S. M.'s Publico
-
-</details>
 
 ### DixelU/SAFC
 
@@ -297,20 +301,12 @@
 
 ### MIDITrail
 
-<details><summary>Long list, click for details.</summary>
-
 - https://osdn.net/projects/miditrail/releases/
-  
-</details>
 
 ### MIDITrail mod. yossiepon
 
-<details><summary>Long list, click for details.</summary>
-
 - https://osdn.net/users/yoshy/pf/MIDITrailMod/wiki/FrontPage
 - http://canonical.rulez.jp/MIDITrailMod/
-  
-</details>
 
 ### Piano From Above
 
@@ -322,20 +318,12 @@
 
 ### Ste-Art/Pianofall
 
-<details><summary>Long list, click for details.</summary>
-
 - https://bitbucket.org/steart/pianofall/wiki/Home
-  
-</details>
 
 ### Synthesia
 
-<details><summary>Long list, click for details.</summary>
-
 - Carlos S. M.'s Publico
 - https://synthesiagame.com/download
-  
-</details>
 
 ### Synthesia Video Creator
 
@@ -359,6 +347,7 @@
   
 ### Ultralight MIDI Player
 
+- https://pipiraworld.web.fc2.com/ump/en.html
 - s0m3guy
 
 ### VirtuosicAI/MIDI-File-Creator

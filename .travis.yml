@@ -4,11 +4,18 @@ branches: master
 
 install:
     - pip install mkdocs 
-    - pip install mkdocs-cinder
+    - pip install mkdocs-material
 
-script: true 
+# before_script:
+#     - mkdir temp
+#     - mv * temp
+#     - mv .* temp
+#     - mv temp/mkdocs.yml .
+#     - mv temp/docs .
+#     - mv temp/theme .
+#     - rm -rf temp
 
-before_deploy:
+script: 
     - mkdocs build
 
 deploy:
@@ -19,5 +26,3 @@ deploy:
   local_dir: site
   on:
     branch: master
-
-sudo: false
