@@ -4,17 +4,18 @@
 
 ### Players
 
-| Name                   | Link                                                                                          | Description |
-| ---------------------- | --------------------------------------------------------------------------------------------- | ----------- |
-| Piano From Above       | <http://kaleidonkep99.altervista.org/pfamirror/index.html>                                    |             |
-| Synthesia (9.0)        | <https://www.synthesiagame.com/downloadSynthesia?product=Synthesia&platform=win_sa&version=9> | free        |
-| Synthesia (10.x)       | <https://www.synthesiagame.com/download>                                                      | paid        |
-| Ultralight MIDI Player | <https://pipiraworld.web.fc2.com/ump/en.html>                                                 |             |
-| Zenith                 | <https://arduano.github.io/Zenith-MIDI>                                                       |             |
-| mmidi                  | <https://sono.9net.org/prog/mmidi>                                                            |             |
-| Toms's MIDI Player     | <http://www.grandgent.com/tom/projects/tmidi/>                                                |             |
-| PianoFall              | <https://bitbucket.org/steart/pianofall/wiki/Home>                                            |             |
-| MIDITrail              | <https://osdn.net/projects/miditrail/>                                                        |             |
+| Name                   | Link                                                                                          | Description              |
+| ---------------------- | --------------------------------------------------------------------------------------------- | ------------------------ |
+| Piano From Above       | <http://kaleidonkep99.altervista.org/pfamirror/index.html>                                    |                          |
+| Synthesia (9.0)        | <https://www.synthesiagame.com/downloadSynthesia?product=Synthesia&platform=win_sa&version=9> | free                     |
+| Synthesia (10.x)       | <https://www.synthesiagame.com/download>                                                      | paid                     |
+| Ultralight MIDI Player | <https://pipiraworld.web.fc2.com/ump/en.html>                                                 |                          |
+| Zenith                 | <https://arduano.github.io/Zenith-MIDI>                                                       | not necessarily a player |
+| mmidi                  | <https://sono.9net.org/prog/mmidi>                                                            |                          |
+| Toms's MIDI Player     | <http://www.grandgent.com/tom/projects/tmidi/>                                                |                          |
+| PianoFall              | <https://bitbucket.org/steart/pianofall/wiki/Home>                                            |                          |
+| MIDITrail              | <https://osdn.net/projects/miditrail/>                                                        |                          |
+| Kiva                   | <https://arduano.github.io/Kiva>                                                              |
 
 ### Synth/Driver
 
@@ -39,12 +40,13 @@
 
 ### MIDI and Audio Editors
 
-| Name         | Link                                   | Description                                        |
-| ------------ | -------------------------------------- | -------------------------------------------------- |
-| Domino       | <http://takabosoft.com/domino>         | free, in japanese, translation on community server |
-| FL Studio    | <https://www.image-line.com/flstudio/> | paid, professional use                             |
-| Anvil Studio | <https://www.anvilstudio.com/>         | freemium                                           |
-| Audacity     | <https://audacityteam.org>             | audio editor, open source                          |
+| Name                       | Link                                                      | Description                                        |
+| -------------------------- | --------------------------------------------------------- | -------------------------------------------------- |
+| Domino                     | <http://takabosoft.com/domino>                            | free, in japanese, translation on community server |
+| Domino English Translation | <https://github.com/Hans5958/Domino-English-Translation/> | translated version for Domino                      |
+| FL Studio                  | <https://www.image-line.com/flstudio/>                    | paid, professional use                             |
+| Anvil Studio               | <https://www.anvilstudio.com/>                            | freemium                                           |
+| Audacity                   | <https://audacityteam.org>                                | audio editor, open source                          |
 
 ### Video Editors
 

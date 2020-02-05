@@ -1,14 +1,26 @@
-theme: 'cinder'
 site_name: 'Black MIDI Meta Docs'
 site_description: 'Documentation of Black MIDI Meta texts and stuffs.'
 site_author: 'Hans5958'
 site_url: 'https://hans5958.github.io/Black-MIDI-Meta-Docs'
 google_analytics: ['UA-49890594-3', 'auto']
 repo_name: 'GitHub'
-repo_url: 'https://github.com/Hans5958/Black-MIDI-Meta-Docs'
-extra_javascript: 
-    - 'js/linkify.js'
-pages: 
+repo_url: 'https://github.com/Hans5958/Black-MIDI-Meta'
+nav: 
     - 'Main Page': 'index.md'
     - 'Links': 'links.md'
     - 'Discord Servers': 'discord.md'
+    - 'List of Largest MIDIs':
+        - 'Info': 'large-list/index.md'
+        - 'Changelog': 'large-list/changelog.md'
+        - 'Macros': 'large-list/macros.md'
+   
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'green'
+    accent: 'light green'
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css

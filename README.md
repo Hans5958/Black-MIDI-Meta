@@ -20,6 +20,16 @@ Black MIDI Meta Docs is a documentation for Black MIDI meta texts, such as lists
 
 You can read the docs on <https://hans5958.github.io/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMetaDocs)).
 
+### Domino English Translation
+
+Domino is MIDI editor that is used for creating MIDI songs/musics. Domino is used by various blackers in the Black MIDI ecosystem.
+
+Since Domino is an abandonware, and it's original language is Japanese, many people tried to translate it using resource editing tools. Some of it are outdated, while others are incomplete.
+
+This repository is made to unify the translations made by community, while trying to complete it for easier usage.
+
+You can visit the repository [here](https://github.com/Hans5958/Domino-English-Translation/).
+
 ### List of Largest MIDIs
 
 This is a list for the large MIDI songs that the community has ever made.
@@ -28,7 +38,7 @@ This list was actually long abandoned by wiki contributors, so there are lots of
 
 The update is monthly and you can submit MIDIs by contacting me in any way you can, such as Discord or the wiki page.
 
-You can visit the Google Drive spreadsheet in <https://px.tru.io/r/BMLL> ([direct link](https://docs.google.com/spreadsheets/u/1/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit?usp=sharing)). Otherwise, you can check the list on the wiki page [here](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs).
+You can read more info in [here](large-list). Otherwise, you can visit the Google Drive spreadsheet in <https://px.tru.io/r/BMLL> ([direct link](https://docs.google.com/spreadsheets/u/1/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit?usp=sharing)) or check the list on the wiki page [here](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs).
 
 ### Black MIDI Software Archive
 
