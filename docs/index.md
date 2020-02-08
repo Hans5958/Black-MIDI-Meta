@@ -10,11 +10,11 @@ The docs and the repository is still work-in-progress. You can contribute if you
 
 Black MIDI Meta is a repository for Black MIDI meta stuff.
 
-You can visit the repo on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)).
+You can visit the repository on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)).
 
 ### Black MIDI Meta Docs
 
-Black MIDI Meta Docs is a documentation for Black MIDI meta texts, such as lists and theories. You are in it now.
+Black MIDI Meta Docs is a documentation for Black MIDI meta texts, such as lists and theories.
 
 You can read the docs on <https://hans5958.github.io/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMetaDocs)).
 
@@ -26,7 +26,7 @@ Since Domino is an abandonware, and it's original language is Japanese, many peo
 
 This repository is made to unify the translations made by community, while trying to complete it for easier usage.
 
-You can visit the repository [here](https://github.com/Hans5958/Domino-English-Translation/).
+You can visit the repository on <https://github.com/Hans5958/Domino-English-Translation/>.
 
 ### List of Largest MIDIs
 
@@ -67,6 +67,6 @@ After that, you can create a pull request by clicking the "New pull request" but
 
 The contents of the documentation created by Hans5958 are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-The source code (HTML, CSS and another scripting, markup or programming languages and the like) of the documentation is licensed under the terms of [MIT license](https://opensource.org/licenses/MIT)
+The source code (HTML, CSS and another scripting, markup or programming languages and the like) of the documentation is licensed under the terms of [MIT license](https://opensource.org/licenses/MIT).
 
 Other documentations and archived files are subject to other rights.
