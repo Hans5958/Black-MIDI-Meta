@@ -11,6 +11,7 @@ nav:
     - 'Discord Servers': 'discord.md'
     - 'List of Largest MIDIs':
         - 'Info': 'large-list/index.md'
+        - 'Release Notes': 'large-list/release-notes.md'
         - 'Changelog': 'large-list/changelog.md'
         - 'Macros': 'large-list/macros.md'
    
