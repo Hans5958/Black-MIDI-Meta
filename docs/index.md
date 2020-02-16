@@ -10,7 +10,7 @@ The docs and the repository is still work-in-progress. You can contribute if you
 
 Black MIDI Meta is a repository for Black MIDI meta stuff.
 
-You can visit the repository on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)).
+The main repository is on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)). Other files that took quite a space is located on [the No History repository](https://github.com/Hans5958/Black-MIDI-Meta-No-History/).
 
 ### Black MIDI Meta Docs
 

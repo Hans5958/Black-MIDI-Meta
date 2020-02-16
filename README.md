@@ -1,3 +1,5 @@
+*Missing your packs, or other files? Please go to <https://github.com/Hans5958/Black-MIDI-Meta-No-History/>, the No History repository.*
+
 # Black MIDI Meta
 
 > Repository of Black MIDI Meta texts and stuffs.
@@ -12,7 +14,7 @@ The docs and the repository is still work-in-progress. You can contribute if you
 
 Black MIDI Meta is a repository for Black MIDI meta stuff. You are in it now.
 
-You can visit the repository on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)).
+The main repository is on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)). Other files that took quite a space is located on [the No History repository](https://github.com/Hans5958/Black-MIDI-Meta-No-History/).
 
 ### Black MIDI Meta Docs
 
@@ -38,7 +40,7 @@ This list was actually long abandoned by wiki contributors, so there are lots of
 
 The update is monthly and you can submit MIDIs by contacting me in any way you can, such as Discord or the wiki page.
 
-You can read more info in [here](large-list). Otherwise, you can visit the Google Drive spreadsheet in <https://px.tru.io/r/BMLL> ([direct link](https://docs.google.com/spreadsheets/u/1/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit?usp=sharing)) or check the list on the wiki page [here](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs).
+You can read more info in [here](https://hans5958.github.io/Black-MIDI-Meta/large-list/). Otherwise, you can visit the Google Drive spreadsheet in <https://px.tru.io/r/BMLL> ([direct link](https://docs.google.com/spreadsheets/u/1/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit?usp=sharing)) or check the list on the wiki page [here](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs).
 
 ### Black MIDI Software Archive
 

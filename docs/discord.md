@@ -3,8 +3,8 @@
 ## Community
 
 | Server Name              | Server Invite                | Description |
-| ------------------------ | ---------------------------- |
-| Black MIDI Community Hub | <https://discord.gg/s42aft8> |
+| ------------------------ | ---------------------------- | ----------- |
+| Black MIDI Community Hub | <https://discord.gg/s42aft8> |             |
 
 ## Programs
 
