@@ -1,6 +1,8 @@
 *Missing your packs, or other files? Please go to <https://github.com/Hans5958/Black-MIDI-Meta-No-History/>, the No History repository.*
 
 # Black MIDI Meta
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHans5958%2FBlack-MIDI-Meta.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHans5958%2FBlack-MIDI-Meta?ref=badge_shield)
+
 
 > Repository of Black MIDI Meta texts and stuffs.
 
@@ -74,3 +76,6 @@ The contents of the documentation created by Hans5958 are licensed under the ter
 The source code (HTML, CSS and another scripting, markup or programming languages and the like) of the documentation is licensed under the terms of [MIT license](https://opensource.org/licenses/MIT).
 
 Other documentations and archived files are subject to other rights.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHans5958%2FBlack-MIDI-Meta.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHans5958%2FBlack-MIDI-Meta?ref=badge_large)
