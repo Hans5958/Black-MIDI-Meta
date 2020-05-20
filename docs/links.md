@@ -12,8 +12,9 @@
 - [Kiva](https://github.com/arduano/Kiva/) - MIDI player, alternative to PFA.
 - [mmidi](https://sono.9net.org/prog/mmidi) - Lightweight MIDI player.
 - [Toms's MIDI Player](http://www.grandgent.com/tom/projects/tmidi/) - Lightweight MIDI player.
-- [PianoFall](https://bitbucket.org/steart/pianofall/wiki/Home) - Physics based MIDI player.
+- [PianoFall](https://bitbucket.org/steart/pianofall/wiki/Home) - Physics-based MIDI player.
 - [MIDITrail](https://osdn.net/projects/miditrail/) - 3D MIDI player.
+- [Embers](https://github.com/LyricWulf/Embers/releases/latest) - MIDI player from Unreal Engine. Alternative to Synthesia but looks professional.
 
 ### Synth/Driver
 
@@ -28,6 +29,7 @@
 - [Simple AF Overlap Remover](https://github.com/DixelU/SAFOR/releases) - Remove overlaps on MIDI files.
 - [MidiNoteThreshold](https://cdn.discordapp.com/attachments/342003805270966284/594536903173210122/) - Remove notes above the velocity threshold.
 - [ImageToMidi](https://cdn.discordapp.com/attachments/342003805270966284/591137488970448896/ImageToMidi.exe) - Converts image to a MIDI file. Good for making arts.
+- [CJC Toolbox](https://discord.gg/uxCqAEz) - Link to Discord server. A toolbox that includes CJC MIDI Counter Generator, CJC Overlap Remover, and CJC Advanced MIDI Merger. Seperate softwares are also in the Discord server.
 
 ### MIDI and Audio Editors
 
@@ -58,12 +60,14 @@
 
 ### Programs
 
+- [BetterPFA](https://discord.gg/wwSkpN5) - BetterPFA
 - [Arduano Dev Server](https://discord.gg/8e5FXB) - Zenith, Kiva
 - [BetterPFA](https://discord.gg/5sMugcQ) - BetterPFA
-- [CJC Apps & 花抄抄大爷](https://discord.gg/uxCqAEz) - W2M, V2M, Note Counter Generator
+- [CJC Apps & 花抄抄大爷](https://discord.gg/uxCqAEz) - CJC Toolbox, CJCAMM, CJCOR, CJCMCG
 - [Keppy's Software ](https://discord.gg/73DVswT) - KMC, OmniMIDI 
 - [SAF Updates](https://discord.gg/CsgEW4P) - SAFOR and SAFC
 - [UMP Users](https://discord.gg/pxPRFU8) - UMP 
+- [Embers](https://discord.gg/MaCxW5u) - Embers
 
 ### Members
 
@@ -82,7 +86,7 @@
 - [Uyasey's Discord Server](https://discord.gg/cK5fcyd) - Uyasey 
 - [Yama's Server](https://discord.gg/HCfSyNd) - YAMAHAPSR 800
 - [YMI Fishery Association](https://discord.gg/JYzannZ) - YMI Black Moon 
-- [Zone's Server Club ](https://discord.gg/BCeBuFy) - ZoneGamer
+- [Zone's Server Club](https://discord.gg/BCeBuFy) - ZoneGamer
 
 ### Other Servers
 
