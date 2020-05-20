@@ -66,9 +66,10 @@ Thanks to each of the resource pack creators.
 - [Nico de Tepez]
 - [ooo 000]
 - [Paku 15000]
+- PhngAndi Mainnew
 - [PipiraMine]
 - RedSlimeballYT
-- TheCatgamer137YT
+- [TheCatgamer137]
 - [s0m3guy]
 - [umbry]
 - [WoofFace4000]
@@ -146,3 +147,4 @@ Thanks to each of the people that helped me to complete the archive.
 [YMI Black Moon]: https://www.youtube.com/channel/UCWV7v8TH1W3Swld8GgxLNXg
 [yossiepon]: https://osdn.net/users/yoshy/
 [ZoneGamer]: https://www.youtube.com/channel/UC88ehQR5tu4y_ili7-jlkEA
+[TheCatgamer137]: https://www.youtube.com/channel/UCn9TcMiJeqpc7CMuGKCtEnQ
