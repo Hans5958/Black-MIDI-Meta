@@ -8,7 +8,7 @@ repo_url: 'https://github.com/Hans5958/Black-MIDI-Meta'
 nav: 
     - 'Main Page': 'index.md'
     - 'Links': 'links.md'
-    - 'Discord Servers': 'discord.md'
+    # - 'Discord Servers': 'discord.md'
     - 'List of Largest MIDIs':
         - 'Info': 'large-list/index.md'
         - 'Release Notes': 'large-list/release-notes.md'
