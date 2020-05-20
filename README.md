@@ -30,7 +30,7 @@ Since Domino is an abandonware, and it's original language is Japanese, many peo
 
 This repository is made to unify the translations made by community, while trying to complete it for easier usage.
 
-You can visit the repository on <https://github.com/Hans5958/Domino-English-Translation/>.
+You can visit the repository on <https://github.com/Hans5958/Domino-English-Translation/>. You can download the latest release [here](https://github.com/Hans5958/Domino-English-Translation/releases).
 
 ### List of Largest MIDIs
 
