@@ -14,7 +14,7 @@ nav:
         - 'Release Notes': 'large-list/release-notes.md'
         - 'Changelog': 'large-list/changelog.md'
         - 'Macros': 'large-list/macros.md'
-   
+    - 'Domino Translations': 'domino-translations.md'
 theme:
   name: 'material'
   custom_dir: 'theme'
