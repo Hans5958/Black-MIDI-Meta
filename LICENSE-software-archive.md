@@ -2,20 +2,25 @@
 
 This page lists all licenses for all softwares archived in [**Black MIDI Software Archive**](https://drive.google.com/drive/u/2/folders/1K3DytP7EXvFBuYV3CQQQ7BYRuY3iESaC)
 
+- [Anvil Studio](#anvil-studio)
 - [arduano/Kiva](#arduanokiva)
   - [\> 1.1.12](#blockquote1112blockquote)
   - [<= 1.1.12](#-1112)
 - [arduano/Zenith-MIDI](#arduanozenith-midi)
   - [\> 2.0.6](#blockquote206blockquote)
   - [<= 2.0.6](#-206)
+- [BASSMIDI Driver](#bassmidi-driver)
 - [DixelU/SAFC](#dixelusafc)
 - [DixelU/SAFOR](#dixelusafor)
 - [hyon3000/hmp](#hyon3000hmp)
 - [KeppySoftware/OmniMIDI](#keppysoftwareomnimidi)
+- [Kaydax/Chikara](#kaydaxchikara)
 - [MIDITrail](#miditrail)
 - [MIDITrail mod. yossiepon](#miditrail-mod-yossiepon)
 - [Piano From Above](#piano-from-above)
+- [Polyphone](#polyphone)
 - [Ste-Art/Pianofall](#ste-artpianofall)
+- [Synthesia](#synthesia)
 - [Synthesia-LLC/metadata-editor](#synthesia-llcmetadata-editor)
 - [nicoboss/UnrealPianofall](#nicobossunrealpianofall)
 - [TiMidity++](#timidity)
@@ -29,12 +34,14 @@ This page lists all licenses for all softwares archived in [**Black MIDI Softwar
 
 ## Summary <!-- omit in toc -->
 
+- Anvil Studio: **Custom license**
 - arduano/Kiva
   - \> 1.1.12: **DBAD**
   - <= 1.1.12: **GPL-3.0**
 - arduano/Zenith-MIDI
   - \> 2.0.6: **DBAD**
   - <= 2.0.6: **GPL-3.0**
+- BASSMIDI Driver: **Custom license**
 - DixelU/SAFC: **Apache-2.0**
 - DixelU/SAFOR: **Apache-2.0**
 - hyon3000/hmp: **Custom permissive license**
@@ -42,7 +49,9 @@ This page lists all licenses for all softwares archived in [**Black MIDI Softwar
 - MIDITrail: **BSD-3-Clause**
 - MIDITrail mod. yossiepon: **BSD-3-Clause**
 - Piano From Above: **Custom license**
+- Polyphone: **GPL-3.0**
 - Ste-Art/Pianofall: **Modified BSD-2-Clause**
+- Synthesia: **Custom license**
 - Synthesia-LLC/metadata-editor: **MIT**
 - nicoboss/UnrealPianofall: **AGPL-3.0**
 - TiMidity++: **GPL-2.0**
@@ -53,6 +62,24 @@ This page lists all licenses for all softwares archived in [**Black MIDI Softwar
 - VirtuosicAI/MIDI-Merger-Lite: **GPL-3.0**
 - VirtuosicAI-MIDI-Splitter-Lite: **GPL-3.0**
 - VirtuosicAI/MIDI-Time-Division-Reader: **MIT**
+
+## Anvil Studio
+
+**Anvil Studio Software License Agreement**
+
+*IMPORTANT -- Please Read*
+
+Please do not use the Software until you have read this Agreement, which provides the terms and conditions for its use.  Press the Page Down key until you have read the entire agreement.  Installing the Software indicates that you have read, understand and accept this Agreement.
+
+You are granted a non-exclusive license to unlimited copies of the Software, and to share those copies with others so long as the copies are not modified from their original form.  However, because the Software is protected by copyright laws, it is illegal:  to modify, adapt, translate, create derivative works, rent, or sell for profit.  The Software contains Willow Software trade secrets, and you may not reverse engineer the Software.
+
+This Software is provided *as-is* and, to the maximum extent permitted by the law, Willow Software disclaims all other warranties, express or implied, regarding the Software, including their quality, their fitness for a particular purpose, or their lack of infringement.  Willow Software does not warrant that the Software is free from errors, or other program limitations.  The entire liability of Willow Software for any reason shall be limited to the amount paid by the customer for the Software.  
+
+This Agreement does not limit any rights that Willow Software may have under trade secret, copyright, patent or other laws. 
+
+If any provision of this Agreement is invalid or unenforceable under applicable law, then it shall be, to that extent, deemed omitted and the remaining provisions will continue in full force and effect.
+
+The validity and performance of this Agreement shall be governed by Washington State law, and applicable federal law.  This Agreement is deemed entered into at Shoreline, Washington.
 
 ## arduano/Kiva
 
@@ -1478,6 +1505,41 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 ```
 
+## BASSMIDI Driver
+
+```
+    Copyright (c) 2011-2012 Brad Miller and Chris Moeller
+    All rights reserved.
+     
+    Redistribution and use of this code or any derivative works are permitted
+    provided that the following conditions are met:
+     
+    1) Redistributions may not be sold, nor may they be used in a commercial
+    product or activity, without direct written/verbal consent of the authors. 
+     
+    2) Redistributions that are modified from the original source *must* include the
+    complete source code, *including* the source code for all components used by a
+    binary built from the modified sources. This also applies to any use of code 
+    from this product in any other uses. 
+	
+    If a commercial license is acquired, this does not apply.
+     
+    3) Redistributions must reproduce the above copyright notice, this list of
+    conditions and the following disclaimer in the documentation and/or other
+    materials provided with the distribution.
+     
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+    AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+    IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+    LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+    CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+    INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+    CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+    ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+    POSSIBILITY OF SUCH DAMAGE.
+```
 
 ## DixelU/SAFC
 
@@ -1953,6 +2015,37 @@ explicit permission from Thomas Mundt.
 Website: https://loudmax.blogspot.com/
 ```
 
+## Kaydax/Chikara
+
+```
+# DON'T BE A DICK PUBLIC LICENSE
+
+> Version 1.1, December 2016
+
+> Copyright (C) 2020 Kaydax, Arduano, khang06 & tehZevo
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document.
+
+> DON'T BE A DICK PUBLIC LICENSE
+> TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+1. Do whatever you like with the original work, just don't be a dick.
+
+   Being a dick includes - but is not limited to - the following instances:
+
+ 1a. Outright copyright infringement - Don't just copy this and change the name.
+ 1b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.
+ 1c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.
+
+2. If you become rich through modifications, related works/services, or supporting the original work,
+share the love. Only a dick would make loads off this work and not buy the original work's
+creator(s) a pint.
+
+3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes
+you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
+```
+
 ## MIDITrail
 
 ```
@@ -2073,6 +2166,14 @@ This Agreement may be modified only by a written document signed by an authorize
 This Agreement is the entire agreement between you and the Author and supersedes any prior agreements, understandings or advertising, whether written or oral, relating to the Software.
 ```
 
+## Polyphone
+
+Polyphone is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.txt). Anyone may thus access the source code, and is welcome to help in the development of the program.
+
+This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+Please note that this program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
 ## Ste-Art/Pianofall
 
 Copyright (c) 2017, Stepan Artemyev
@@ -2094,6 +2195,185 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+## Synthesia
+
+Software and Documentation Copyright © 2006-2019 Synthesia LLC, all rights reserved.
+
+THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE WHICH ARE HEREBY DISCLAIMED. IN NO EVENT WILL SYNTHESIA LLC BE LIABLE FOR ANY SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM POSSESSION, USE, OR MALFUNCTION OF THIS SOFTWARE PRODUCT.
+
+SOME STATES DO NOT ALLOW LIMITATIONS AS TO HOW LONG AN IMPLIED WARRANTY LASTS AND/OR EXCLUSIONS OR LIMITATIONS OF INCIDENTAL OR CONSEQUENTIAL DAMAGES SO THE ABOVE LIMITATIONS AND/OR EXCLUSIONS OF LIABILITY MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE.
+
+SYNTHESIA LLC RESERVES THE RIGHT TO MAKE IMPROVEMENTS IN THIS FILE AND TO THE SOFTWARE AT ANY TIME AND WITHOUT NOTICE.
+
+THIS FILE AND THE SOFTWARE HEREWITH IS COPYRIGHTED. ALL RIGHTS ARE RESERVED. NO PART OF THIS FILE OR THE SOFTWARE MAY BE COPIED, REPRODUCED, TRANSLATED, OR REDUCED TO ANY ELECTRONIC MEDIUM OR MACHINE-READABLE FORM WITHOUT THE PRIOR WRITTEN CONSENT OF SYNTHESIA LLC.
+
+----
+
+Portions of this software are copyright © 2018 [The FreeType Project](http://www.freetype.org/). All rights reserved.
+
+----
+
+Synthesia uses the [pugixml XML parsing library](http://pugixml.org/). It is licensed under the MIT license:
+
+Copyright (c) 2006-2012 Arseny Kapoulkine.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----
+
+Synthesia uses the [args library](https://github.com/Taywee/args). It is licensed under the MIT license:
+
+Copyright (c) 2016 Taylor C. Richberger
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----
+
+Synthesia uses the [date library](https://github.com/HowardHinnant/date). It is licensed under the MIT license:
+
+Copyright (c) 2015, 2016, 2017 Howard Hinnant
+
+Copyright (c) 2016 Adrian Colomitchi
+
+Copyright (c) 2017 Florian Dang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Synthesia uses the [Botan library](https://github.com/randombit/botan). It is licensed under the 2-clause BSD license:
+
+Copyright (C) 1999-2013,2014,2015,2016,2017 The Botan Authors
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+Synthesia uses the [libguarded library](https://github.com/copperspice/libguarded). It is licensed under the 2-clause BSD license:
+
+Copyright (c) 2018, Ansel Sermersheim
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+Synthesia uses the [SQLite ORM](https://github.com/fnc12/sqlite_orm) library. It is licensed under the 3-clause BSD license:
+
+Copyright (c) 2017, Yevgeniy Zakharov
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+* Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+----
+
+The Windows version of Synthesia uses the [WinRTMidi helper library](https://github.com/stammen/winrtmidi). It is licensed under the MIT license:
+
+Copyright (c) Microsoft Corporation
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----
+
+Synthesia uses [OpenGL Mathematics (GLM)](http://glm.g-truc.net/), which is licensed under the MIT license:
+
+Copyright (c) 2005 - 2018 G-Truc Creation
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----
+
+Synthesia uses the Bravura musical font, which is licensed under the SIL Open Font License:
+
+Copyright © 2015, Steinberg Media Technologies GmbH (http://www.steinberg.net/), with Reserved Font Name "Bravura".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+**SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007**
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
 
 ## Synthesia-LLC/metadata-editor
 
