@@ -1,5 +1,22 @@
 # Release Notes
 
+## February 2021 Update <small>26 February 2021</small>
+
+Hello. It's been a while since the last update. A very long while. I am sorry for disappoiting some of you because of my false premises and other things that I need to do. I'm going to college soon and I'm working on another project of mine, so I got distracted and didn't finish this in time.
+
+Now at **478** songs from **404**. That's **74** songs added on this version. Pretty large, but keep in mind that this songs are mostly from the first half of 2020, so there is quite a lot that is not added since my last queue, especially since I believe that it is more easier than ever to make MIDIs with large quantity of notes. 
+
+Astronomia MIDIs are added here, so that's something. Check out the changelog at https://hans5958.github.io/Black-MIDI-Meta/large-list/changelog to see all of the updates.
+
+Because of the uncertanities on my side, I will appreciate it if anyone wanted to maintain the list for the forseeable future. Just don't forget to tell me. I won't copy this list on the wiki, due to the fact that it is going to be deprecated is favor on some other technology other than MediaWiki.
+
+As always, keep giving the feedback for the future. Thanks for reading, and again, I apologize.
+
+PS. By the way, all information sheets have been moved to https://hans5958.github.io/Black-MIDI-Meta/large-list/.
+
+> [Click here to see the message on Discord.](#)  
+> [Click here to see the changelog.](../changelog/#february-2021-update-26-february-2021)
+
 ## October 2019 Update <small>(26 October 2019)</small>
 
 Finally, after skipping a month, this update is finally done. I hope you guys don't forget about this.
