@@ -1,0 +1,1484 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Documentation of Black MIDI Meta texts and stuffs.">
+      
+      
+        <meta name="author" content="Hans5958">
+      
+      
+        <link rel="canonical" href="https://hans5958.github.io/Black-MIDI-Meta/tags/s/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.9">
+    
+    
+      
+        <title>S - Black MIDI Meta Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.1d29e8d0.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#4cae4f">
+        
+      
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/dark_theme.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/codehilite.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-MFXDVQ0WW7"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&gtag("event","search",{search_term:this.value})}),"undefined"!=typeof location$&&location$.subscribe(function(e){gtag("config","G-MFXDVQ0WW7",{page_path:e.pathname})})})</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MFXDVQ0WW7"></script>
+
+
+    
+    
+<meta name="theme-color" content="#212121">
+
+<link rel='icon' href='/assets/images/favicon.ico'>
+
+<meta name='apple-mobile-web-app-capable' content='yes'>
+<meta name='mobile-web-app-capable' content='yes'>
+<link rel="manifest" href="/manifest.json">
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="green" data-md-color-accent="light-green">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#s" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Black MIDI Meta Docs" class="md-header__button md-logo" aria-label="Black MIDI Meta Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Black MIDI Meta Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              S
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Hans5958/Black-MIDI-Meta" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Black MIDI Meta Docs" class="md-nav__button md-logo" aria-label="Black MIDI Meta Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Black MIDI Meta Docs
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Hans5958/Black-MIDI-Meta" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Main Page
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../links/" class="md-nav__link">
+        Links
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          List of Largest MIDIs
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="List of Largest MIDIs" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          List of Largest MIDIs
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../large-list/" class="md-nav__link">
+        Info
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../large-list/release-notes/" class="md-nav__link">
+        Release Notes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../large-list/changelog/" class="md-nav__link">
+        Changelog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../large-list/macros/" class="md-nav__link">
+        Macros
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domino-translations/" class="md-nav__link">
+        Domino Translations
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          BMC Tags
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="BMC Tags" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          BMC Tags
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%23.md" class="md-nav__link">
+        #
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../a/" class="md-nav__link">
+        A
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../b/" class="md-nav__link">
+        B
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../c/" class="md-nav__link">
+        C
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../d/" class="md-nav__link">
+        D
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../e/" class="md-nav__link">
+        E
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../f/" class="md-nav__link">
+        F
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../g/" class="md-nav__link">
+        G
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../h/" class="md-nav__link">
+        H
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../i/" class="md-nav__link">
+        I
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../j/" class="md-nav__link">
+        J
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../k/" class="md-nav__link">
+        K
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../l/" class="md-nav__link">
+        L
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../m/" class="md-nav__link">
+        M
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../n/" class="md-nav__link">
+        N
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../o/" class="md-nav__link">
+        O
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../p/" class="md-nav__link">
+        P
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../q/" class="md-nav__link">
+        Q
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../r/" class="md-nav__link">
+        R
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          S
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        S
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#salad" class="md-nav__link">
+    salad
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sammy" class="md-nav__link">
+    sammy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sandbox" class="md-nav__link">
+    sandbox
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#satan" class="md-nav__link">
+    satan
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenfiller" class="md-nav__link">
+    screenfiller
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenfiller2" class="md-nav__link">
+    screenfiller2
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenfiller3" class="md-nav__link">
+    screenfiller3
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scub" class="md-nav__link">
+    scub
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#send" class="md-nav__link">
+    send
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shit" class="md-nav__link">
+    shit
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shrek" class="md-nav__link">
+    Shrek
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shut" class="md-nav__link">
+    shut
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#simp" class="md-nav__link">
+    Simp
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sin" class="md-nav__link">
+    sin
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#snot" class="md-nav__link">
+    snot
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#somebody" class="md-nav__link">
+    somebody
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spam" class="md-nav__link">
+    spam
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spork" class="md-nav__link">
+    spork
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stev" class="md-nav__link">
+    stev
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stfu" class="md-nav__link">
+    stfu
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stupid" class="md-nav__link">
+    stupid
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#succ" class="md-nav__link">
+    succ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sugar" class="md-nav__link">
+    sugar
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#super" class="md-nav__link">
+    super
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#supercum" class="md-nav__link">
+    supercum
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#swag" class="md-nav__link">
+    swag
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../t/" class="md-nav__link">
+        T
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../u/" class="md-nav__link">
+        U
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../v/" class="md-nav__link">
+        V
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../w/" class="md-nav__link">
+        W
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../x/" class="md-nav__link">
+        X
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../y/" class="md-nav__link">
+        Y
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../z/" class="md-nav__link">
+        Z
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#salad" class="md-nav__link">
+    salad
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sammy" class="md-nav__link">
+    sammy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sandbox" class="md-nav__link">
+    sandbox
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#satan" class="md-nav__link">
+    satan
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenfiller" class="md-nav__link">
+    screenfiller
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenfiller2" class="md-nav__link">
+    screenfiller2
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#screenfiller3" class="md-nav__link">
+    screenfiller3
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scub" class="md-nav__link">
+    scub
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#send" class="md-nav__link">
+    send
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shit" class="md-nav__link">
+    shit
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shrek" class="md-nav__link">
+    Shrek
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shut" class="md-nav__link">
+    shut
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#simp" class="md-nav__link">
+    Simp
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sin" class="md-nav__link">
+    sin
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#snot" class="md-nav__link">
+    snot
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#somebody" class="md-nav__link">
+    somebody
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spam" class="md-nav__link">
+    spam
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spork" class="md-nav__link">
+    spork
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stev" class="md-nav__link">
+    stev
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stfu" class="md-nav__link">
+    stfu
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stupid" class="md-nav__link">
+    stupid
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#succ" class="md-nav__link">
+    succ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sugar" class="md-nav__link">
+    sugar
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#super" class="md-nav__link">
+    super
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#supercum" class="md-nav__link">
+    supercum
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#swag" class="md-nav__link">
+    swag
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+  <a href="https://github.com/Hans5958/Black-MIDI-Meta/edit/master/docs/tags/s.md" title="Edit this page" class="md-content__button md-icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
+  </a>
+
+
+
+<h1 id="s">S</h1>
+<blockquote>
+<p><strong>Disclaimer:</strong> </p>
+<ol>
+<li>
+<p>Most tags are not made by the contributors of this page, so they are in no way related to the contributors' opinion.</p>
+</li>
+<li>
+<p>Most tags are satire/sarcasm, please don't take it seriously. You have been warned.</p>
+</li>
+</ol>
+</blockquote>
+<h2 id="salad">salad</h2>
+<p><img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922929147510793/edgesalad.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922935187177474/fire.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922944838270987/gloss.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922961699241984/ideksalad.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922967420272640/hurlsalad.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922968657854465/laser.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922974571823144/minecraft.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922984914714644/mosalad.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513922991298707457/neon.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513923004842115082/nicesalad.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513923010235727892/redeye.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513923016497954849/salaz.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513923022214660096/slur.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513923028535476239/something.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513923036127428608/thonk.png" />
+<img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/513923045837111296/wavy.png" /></p>
+<h2 id="sammy">sammy</h2>
+<p><img alt="" src="https://cdn.discordapp.com/attachments/223264079672770561/725318467422650468/Sammy.jpg" /></p>
+<h2 id="sandbox">sandbox</h2>
+<p>{6:printf ("hello world\n")</p>
+<h2 id="satan">satan</h2>
+<p>http://youtube.com/666</p>
+<h2 id="screenfiller">screenfiller</h2>
+<p>᠎{replace:a|with:{args}|in:{args}}<br />
+{replace:b|with:{args}|in:{args}}<br />
+{replace:c|with:{args}|in:{args}}<br />
+{replace:d|with:{args}|in:{args}}<br />
+{replace:e|with:{args}|in:{args}}<br />
+{replace:f|with:{args}|in:{args}}<br />
+{replace:g|with:{args}|in:{args}}<br />
+{replace:h|with:{args}|in:{args}}<br />
+{replace:i|with:{args}|in:{args}}<br />
+{replace:j|with:{args}|in:{args}}<br />
+{replace:k|with:{args}|in:{args}}<br />
+{replace:l|with:{args}|in:{args}}<br />
+{replace:m|with:{args}|in:{args}}<br />
+{replace:n|with:{args}|in:{args}}<br />
+{replace:o|with:{args}|in:{args}}<br />
+{replace:p|with:{args}|in:{args}}<br />
+{replace:q|with:{args}|in:{args}}<br />
+{replace:r|with:{args}|in:{args}}<br />
+{replace:s|with:{args}|in:{args}}<br />
+{replace:t|with:{args}|in:{args}}<br />
+{replace:u|with:{args}|in:{args}}<br />
+{replace:v|with:{args}|in:{args}}<br />
+{replace:w|with:{args}|in:{args}}<br />
+{replace:x|with:{args}|in:{args}}<br />
+{replace:y|with:{args}|in:{args}}<br />
+{replace:z|with:{args}|in:{args}}</p>
+<h2 id="screenfiller2">screenfiller2</h2>
+<p>᠎START<br />
+{set:1|{replace:a|with:{args}|in:{args}}}<br />
+ {set:2|{replace:b|with:{get:1}{args}|in:{get:1}}}<br />
+ {set:3|{replace:c|with:{get:2}{get:1}{args}|in:{get:2}}}<br />
+ {set:4|{replace:d|with:{get:3}{get:2}{get:1}{args}|in:{get:3}}}<br />
+ {set:5|{replace:e|with:{get:4}{get:3}{get:2}{get:1}{args}|in:{get:4}}}<br />
+{get:5}</p>
+<p>END LELE</p>
+<h2 id="screenfiller3">screenfiller3</h2>
+<p>᠎᠎᠎{replace:a|with:{args}|in:{args}}<br />
+{replace:b|with:{args}|in:{args}}<br />
+{replace:c|with:{args}|in:{args}}<br />
+{replace:d|with:{args}|in:{args}}<br />
+{replace:e|with:{args}|in:{args}}<br />
+{replace:f|with:{args}|in:{args}}<br />
+{replace:g|with:{args}|in:{args}}<br />
+{replace:h|with:{args}|in:{args}}<br />
+{replace:i|with:{args}|in:{args}}<br />
+{replace:j|with:{args}|in:{args}}<br />
+{replace:k|with:{args}|in:{args}}<br />
+{replace:l|with:{args}|in:{args}}<br />
+{replace:m|with:{args}|in:{args}}<br />
+{replace:n|with:{args}|in:{args}}<br />
+{replace:o|with:{args}|in:{args}}<br />
+{replace:p|with:{args}|in:{args}}<br />
+{replace:q|with:{args}|in:{args}}<br />
+{replace:r|with:{args}|in:{args}}<br />
+{replace:s|with:{args}|in:{args}}<br />
+{replace:t|with:{args}|in:{args}}<br />
+{replace:u|with:{args}|in:{args}}<br />
+{replace:v|with:{args}|in:{args}}<br />
+{replace:w|with:{args}|in:{args}}<br />
+{replace:x|with:{args}|in:{args}}<br />
+{replace:y|with:{args}|in:{args}}<br />
+{replace:z|with:{args}|in:{args}}᠎᠎{replace:a|with:{args}|in:{args}}<br />
+{replace:b|with:{args}|in:{args}}<br />
+{replace:c|with:{args}|in:{args}}<br />
+{replace:d|with:{args}|in:{args}}<br />
+{replace:e|with:{args}|in:{args}}<br />
+{replace:f|with:{args}|in:{args}}<br />
+{replace:g|with:{args}|in:{args}}<br />
+{replace:h|with:{args}|in:{args}}<br />
+{replace:i|with:{args}|in:{args}}<br />
+{replace:j|with:{args}|in:{args}}<br />
+{replace:k|with:{args}|in:{args}}<br />
+{replace:l|with:{args}|in:{args}}<br />
+{replace:m|with:{args}|in:{args}}<br />
+{replace:n|with:{args}|in:{args}}<br />
+{replace:o|with:{args}|in:{args}}</p>
+<h2 id="scub">scub</h2>
+<p>​᠎futo is my waifu</p>
+<h2 id="send">send</h2>
+<p>help</p>
+<h2 id="shit">shit</h2>
+<p>I took a fat shit the other day and the splash sounded exactly like a part of the nuker 2</p>
+<h2 id="shrek">Shrek</h2>
+<p>᠎I love {args}.<br />
+{args} is love.<br />
+{args} is life.  </p>
+<h2 id="shut">shut</h2>
+<p>Shut yo skin tone chicken bone google chrome no home flip phone disowned ice cream cone garden gnome extra chromosome metronome dimmadome genome full blown monochrome student loan indiana jones overgrown flintstone x and y hormone friend zoned sylvester stallone sierra leone autozone professionally seen silver patrone head ass tf up</p>
+<h2 id="simp">Simp</h2>
+<p>Simp, from WIKIPEDIA, a free encyclopedia, at en.wikipedia.org</p>
+<p>Simp, is a straight or cismale who attempts to praise another female, doing whatever it takes to capture the female's attention [1]. Simps tend to use spend all their money and effort in trying to please the girl, even if she doesn't like the man [2]. They usually do things similar to courting, but in a way that embarrasses both the simp and the girl [3]. Simps make up 69% of the straight male population [4].</p>
+<h2 id="sin">sin</h2>
+<p>{lua:print(math.sin({args}))}</p>
+<h2 id="snot">snot</h2>
+<p>MEEEEEEEEEEEEEEEEEEEEEEOoOOOOOOOOOOOW</p>
+<h2 id="somebody">somebody</h2>
+<p>​<strong><em>ONCE TOLD ME</em></strong></p>
+<h2 id="spam">spam</h2>
+<p>﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽</p>
+<h2 id="spork">spork</h2>
+<pre><code>**ANGRY AT OP?** WANT TO JOIN THE MOB? *I'VE GOT YOU COVERED!*
+
+**COME ON DOWN TO PITCHSPORK EMPORIUM**
+
+
+**I GOT 'EM ALL!**
+
+Traditional|Left Handed|Fancy
+    ---E}  |   {Ǝ---   | ---{}
+**I EVEN HAVE DISCOUNTED CLEARANCE SPORKS!**
+
+33% off!|66% off!|Manufacturer's Defect!
+  ---F} |  ---L} |    ---e}
+
+**NEW IN STOCK. DIRECTLY FROM LIECHTENSTEIN.** ***EUROPEAN MODELS!***
+
+The Euro|The Pound|The Lira
+ ---€}  |   ---£} | ---₤}
+
+#**HAPPY LYNCHING!**
+
+(*some assembly required*)
+</code></pre>
+<h2 id="stev">stev</h2>
+<p>do someone wonder why i call to my next moster midi 'night of nights dark rape mode'</p>
+<h2 id="stfu">stfu</h2>
+<p>shut the fuck up</p>
+<h2 id="stupid">stupid</h2>
+<p>https://cdn.discordapp.com/attachments/139268201803546624/517107477859532800/STUPID.mp4</p>
+<h2 id="succ">succ</h2>
+<p>no succ</p>
+<h2 id="sugar">sugar</h2>
+<p>is gone JOHHNY DDDDDDDDDD</p>
+<h2 id="super">super</h2>
+<p>​hexagon Fuck off with that fucking impossible game</p>
+<h2 id="supercum">supercum</h2>
+<p>https://media.discordapp.net/attachments/223264079672770561/603271317160067080/What-Europeans-Really-Want.mp4</p>
+<h2 id="swag">swag</h2>
+<p>​https://www.youtube.com/watch?v=DMpYQCd9z3Q</p>
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../r/" class="md-footer__link md-footer__link--prev" aria-label="Previous: R" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              R
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../t/" class="md-footer__link md-footer__link--next" aria-label="Next: T" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              T
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.b97dbffb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.6c7ad80a.min.js"></script>
+      
+    
+  </body>
+</html>
