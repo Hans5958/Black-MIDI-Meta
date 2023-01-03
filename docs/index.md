@@ -10,13 +10,13 @@ The docs and the repository is still work-in-progress. You can contribute if you
 
 Black MIDI Meta is a repository for Black MIDI meta stuff.
 
-The main repository is on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMeta)). Other files that took quite a space is located on [the No History repository](https://github.com/Hans5958/Black-MIDI-Meta-No-History/).
+The main repository is on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/r/BMMeta)). Other files that took quite a space is located on [the No History repository](https://github.com/Hans5958/Black-MIDI-Meta-No-History/).
 
 ### Black MIDI Meta Docs
 
 Black MIDI Meta Docs is a documentation for Black MIDI meta texts, such as lists and theories.
 
-You can read the docs on <https://hans5958.github.io/Black-MIDI-Meta> ([short link](https://px.tru.io/BMMetaDocs)).
+You can read the docs on <https://hans5958.github.io/Black-MIDI-Meta> ([short link](https://px.tru.io/r/BMMetaDocs)).
 
 ### Domino English Translation
 

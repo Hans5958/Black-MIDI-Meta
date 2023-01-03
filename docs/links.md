@@ -49,8 +49,8 @@
 ## Other Useful Links
 
 - [Carlos S.M.'s Publico](https://drive.google.com/drive/u/0/folders/0B-jbdgbiY_-YYm5WemFvTkM0Tnc) - Archive for all things Black MIDI by Carlos S.M.. Not frequently updated.
-- [List of Largest MIDIs](https://px.tru.io/BMLargeList) - List of largest MIDIs by note count.
-- [Black MIDI Software Archive](https://px.tru.io/BMSoftwareArchive) - My archive of softwares related to Black MIDI.
+- [List of Largest MIDIs](https://px.tru.io/r/BMLargeList) - List of largest MIDIs by note count.
+- [Black MIDI Software Archive](https://px.tru.io/r/BMSoftwareArchive) - My archive of softwares related to Black MIDI.
 
 ## Discord Servers
 
