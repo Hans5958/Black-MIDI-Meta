@@ -6,11 +6,11 @@ repo_name: 'GitHub'
 repo_url: 'https://github.com/Hans5958/Black-MIDI-Meta'
 
 theme:
-    name: 'material'
-    custom_dir: 'theme'
-    palette:
-        primary: 'green'
-        accent: 'light green'
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'green'
+    accent: 'light green'
 
 extra_css:
   - stylesheets/dark_theme.css
@@ -60,3 +60,11 @@ extra:
   analytics:
     provider: google
     property: G-MFXDVQ0WW7
+  consent:
+    title: Cookie consent
+    description: >- 
+      Cookies are used to recognize your repeated visits, as well as to measure the effectiveness of the documentation. With your consent, you're helping to make this documentation better.
+    actions:
+      - accept
+      - reject
+      - manage 
