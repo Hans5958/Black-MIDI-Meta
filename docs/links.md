@@ -4,32 +4,47 @@
 
 ### Players
 
-- [Piano From Above](http://kaleidonkep99.altervista.org/pfamirror/index.html) - Mostly used MIDI player on the community.
-- [Synthesia](https://www.synthesiagame.com/download) - Mainstream piano roll software/MIDI player, often used by YouTube creators, paid.
+- [Piano From Above](https://github.com/brian-pantano/PianoFromAbove) - ⭐ Mostly used MIDI player on the community.
+- [Synthesia](https://www.synthesiagame.com/download) - Mainstream piano roll software/MIDI player, often used by YouTube creators. Paid.
 - [Synthesia (9.0)](https://www.synthesiagame.com/downloadSynthesia?product=Synthesia&platform=win_sa&version=9) - Latest free version of Synthesia.
 - [Ultralight MIDI Player](https://pipiraworld.web.fc2.com/ump/en.html) - Alternative to PFA, made with Java. Can be used for rendering MIDI files.
-- [Zenith](https://github.com/arduano/Zenith-MIDI/) - MIDI renderer, made with C#, alternative to UMP.
-- [Kiva](https://github.com/arduano/Kiva/) - MIDI player, alternative to PFA.
-- [mmidi](https://sono.9net.org/prog/mmidi) - Lightweight MIDI player.
+- [Zenith](https://github.com/arduano/Zenith-MIDI/) - ⭐ MIDI renderer, made with C#, alternative to UMP.
+- [Kiva](https://github.com/arduano/Kiva/) - ⭐ MIDI player, alternative to PFA.
+- [mmidi](https://web.archive.org/web/20210303204501/http://sono.9net.org/prog/mmidi/data/) - Lightweight console MIDI player.
 - [Toms's MIDI Player](http://www.grandgent.com/tom/projects/tmidi/) - Lightweight MIDI player.
+- [vanBasco's Karaoke Player](http://www.vanbasco.com/karaokeplayer/) - Basic MIDI player.
 - [PianoFall](https://bitbucket.org/steart/pianofall/wiki/Home) - Physics-based MIDI player.
 - [MIDITrail](https://osdn.net/projects/miditrail/) - 3D MIDI player.
-- [Embers](https://github.com/LyricWulf/Embers/releases/latest) - MIDI player from Unreal Engine. Alternative to Synthesia but looks professional.
+- [Embers](https://github.com/LyricWulf/Embers/releases/latest) - MIDI player from Unreal Engine. Alternative to Synthesia but looks professional. Freemium.
+- [ConMIDI](https://github.com/EmK530/ConMIDI) - Lightweight console MIDI player.
+- [BASSMIDI Tester](https://drive.google.com/drive/folders/1de5JiOQ3Dv96TVkpdVNNjUwP6eolo8cR) - Old MIDI player based on BASSMIDI.
+
+#### Mods
+
+- [khang06/PianoFromAbove](https://github.com/khang06/PianoFromAbove) - khang06's fork of PFA
+- [Kiva Modded](https://github.com/MrCHB1/Kiva-Modded) - Modded version by MrCHB1.
+- [SharpMIDI](https://github.com/EmK530/SharpMIDI) - Abandoned project where ConMIDI is based upon.
+- [MIDITest Mod](https://drive.google.com/drive/folders/0B-jbdgbiY_-YRkFFcmJyOERwYlU) - Mods of BASSMIDI Tester.
+- [MIDITrail mod. yossiepon](https://drive.google.com/drive/folders/1nHu64ZLd26SffDnh2t4vLjV6qfQkYFqt) - Old fork of MIDITrail.
+- [#software on BMC](https://discord.com/channels/139268201803546624/342003805270966284) - More tools can be found on the channel.
+- [#mods-and-skins on BMC](https://discord.com/channels/139268201803546624/387414720837320706) - Mods and resource packs of Zenith and UMP are shared on this channel.
 
 ### Synth/Driver
 
-- [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI/) - Most optimized for playing Black MIDI. Also works for general players.
+- [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI/) - ⭐ Most optimized for playing Black MIDI. Also works for general players.
 - [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth) - Was most used before OmniMIDI used, good alternative.
+- [BASSMIDI Player](https://drive.google.com/drive/folders/1yzy9HowL8bao9w--u3VUGIcczF4nrCkI) - Very old driver on which OmniMIDI is based. Very slow also.
 
 ### Tools
 
-- [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - Convert MIDI files to MP3, WAV, or OGG.	
+- [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - ⭐ Convert MIDI files to MP3, WAV, or OGG.	
 - [Keppy's Note Generator](https://github.com/KeppySoftware/KeppyCounterGenerator) - Render MIDITrail-like counter.
 - [Simple AF Converter](https://github.com/DixelU/SAFC/releases) - Mostly used for merging MIDI files.
 - [Simple AF Overlap Remover](https://github.com/DixelU/SAFOR/releases) - Remove overlaps on MIDI files.
-- [MidiNoteThreshold](https://cdn.discordapp.com/attachments/342003805270966284/594536903173210122/) - Remove notes above the velocity threshold.
 - [ImageToMidi](https://cdn.discordapp.com/attachments/342003805270966284/591137488970448896/ImageToMidi.exe) - Converts image to a MIDI file. Good for making arts.
-- [CJC Toolbox](https://discord.gg/uxCqAEz) - Link to Discord server. A toolbox that includes CJC MIDI Counter Generator, CJC Overlap Remover, and CJC Advanced MIDI Merger. Seperate softwares are also in the Discord server.
+- [CJC Toolbox](https://github.com/Ace-tyl/CJC-Toolbox-Reborn) - A toolbox that includes CJC MIDI Counter Generator, CJC Overlap Remover, and CJC Advanced MIDI Merger.
+- [Piano From Above: Configuratior](https://github.com/KaleidonKep99/PianoFromAboveConfigurator) - For easy configuration of PFA
+- [#software on BMC](https://discord.com/channels/139268201803546624/342003805270966284) - More tools can be found on the channel.
 
 ### MIDI and Audio Editors
 
@@ -46,9 +61,19 @@
 - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - Paid video editor.
 - [Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) - Paid video editor.
 
+## Soundfonts
+
+- [#soundfonts on BMC](https://discord.com/channels/139268201803546624/316196592334143489) - Soundfonts are shared on this channel.
+- [SoundFonts on Publico (Carlos S. M.)](https://drive.google.com/drive/folders/0B-jbdgbiY_-YMGU1M2dqbkFmUHc?resourcekey=0-As6ta_G8XDiFJ-EgRA-PnQ) - Soundfonts that are made by Carlos S. M., as well as by others.
+
+## MIDI Files
+
+- [#midis on BMC](https://discord.com/channels/139268201803546624/253688726998351872) - MIDI songs and files are shared on this channel.
+- [MIDIs on Publico (Carlos S. M.)](https://drive.google.com/drive/folders/0B-jbdgbiY_-YNUFHQjNoRVFnZGc?resourcekey=0-wIRtT-PN3EUY5sZo2UXD2w) - MIDI songs and files by Carlos S. M. are uploaded on this folder, as well as a large selection of MIDIs made by others.
+
 ## Other Useful Links
 
-- [Carlos S.M.'s Publico](https://drive.google.com/drive/u/0/folders/0B-jbdgbiY_-YYm5WemFvTkM0Tnc) - Archive for all things Black MIDI by Carlos S.M.. Not frequently updated.
+- [Publico (Carlos S.M.)](https://drive.google.com/drive/folders/0B-jbdgbiY_-YYm5WemFvTkM0Tnc) - Archive for all things Black MIDI by Carlos S.M.. Not frequently updated.
 - [List of Largest MIDIs](https://docs.google.com/spreadsheets/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit) - List of largest MIDIs by note count.
 - [Black MIDI Software Archive](https://drive.google.com/drive/folders/1K3DytP7EXvFBuYV3CQQQ7BYRuY3iESaC) - My archive of softwares related to Black MIDI.
 
@@ -56,43 +81,39 @@
 
 ### Community
 
-- [Black MIDI Community Hub](https://discord.gg/s42aft8)
+- [Black MIDI Community Hub](https://discord.gg/s42aft8) - Main, global community
+- [黑乐谱活动社区 Black MIDI Score Activity Community](https://discord.gg/m9q2QCAcdN) - China-based community
+- [Black MIDI Indonesia Community [BMIC] 🇮🇩](https://discord.gg/3VXrmnQUTR) - Indonesia-based community
 
 ### Programs
 
-- [BetterPFA](https://discord.gg/wwSkpN5) - BetterPFA
 - [Arduano Dev Server](https://discord.gg/8e5FXB) - Zenith, Kiva
-- [BetterPFA](https://discord.gg/5sMugcQ) - BetterPFA
-- [CJC Apps & 花抄抄大爷](https://discord.gg/uxCqAEz) - CJC Toolbox, CJCAMM, CJCOR, CJCMCG
-- [Keppy's Software ](https://discord.gg/73DVswT) - KMC, OmniMIDI 
+- [BetterTeam Dev Server](https://discord.gg/wwSkpN5) - BetterPFA
+	- [BetterPFA Archive](https://discord.gg/5sMugcQ)
+- [CJC Apps Discussion](https://discord.gg/uxCqAEz) - CJC Toolbox, CJCAMM, CJCOR, CJCMCG
+- [Embers](https://discord.gg/MaCxW5u) - Embers
+- [Keppy's Software](https://discord.gg/73DVswT) - KMC, OmniMIDI 
 - [SAF Updates](https://discord.gg/CsgEW4P) - SAFOR and SAFC
 - [UMP Users](https://discord.gg/pxPRFU8) - UMP 
-- [Embers](https://discord.gg/MaCxW5u) - Embers
 
 ### Members
 
 - [C.R.A.S.H.P.O.I.N.T](https://discord.gg/faSAaRN) - Trainer Lydia
-- [CJC Apps & 花抄抄大爷](https://discord.gg/uxCqAEz) - Charlie Yan and ooo 000
+- [CJC Apps Discussion](https://discord.gg/uxCqAEz) - Charlie Yan and ooo 000
 - [Declan's Black MIDI Discord](https://discord.gg/JtMZnV4) - Declan Grimshaw
-- [DragonPianist's Conversation Server](https://discord.gg/ERdvaRz) - DragonPianist
-- [Eden's MIDIs](https://discord.gg/28cf6yS) - Edenathan25
+- [DragonPianist Music Society](https://discord.gg/ERdvaRz) - DragonPianist
+- [Daniferousity](https://discord.gg/kTD8y6YDjJ) - Danify/Edenathan256
 - [EpreTroll Federation](https://discord.gg/gVkfqxS) - EpreTroll
-- [LTPP's Chat server](https://discord.gg/bFUquR4) - Logo The Pizza Pie 
-- [LucasMIDI Hangout](https://discord.gg/PK9VMv3) - Lucas9810
-- [MBMS World](https://discord.gg/q9B59mT) - MBMS 
-- [MusiVerse](https://discord.gg/3FZCgbk) - MusiMasta
-- [PokeHydre's Hub](https://discord.gg/r2xkfC8) - Poke Hydre 
-- [umbry](https://discord.gg/TpZGayH) - umbry/Ryan 0201
+- [MBMS World](https://discord.gg/dNnejw9cNz) - MBMS 
+- [Poke Hydre's Hub](https://discord.gg/r2xkfC8) - Poke Hydre 
 - [Uyasey's Discord Server](https://discord.gg/cK5fcyd) - Uyasey 
-- [Yama's Server](https://discord.gg/HCfSyNd) - YAMAHAPSR 800
-- [YMI Fishery Association](https://discord.gg/JYzannZ) - YMI Black Moon 
+- [Yama's & Paprika's Server](https://discord.gg/HCfSyNd) - YAMAHAPSR 800, Orangepaprika 67
 - [Zone's Server Club](https://discord.gg/BCeBuFy) - ZoneGamer
 
 ### Other Servers
 
 - [The Convergence](https://discord.gg/NkggT42) - Public collaboration group
-- [Directory Of Midis And SoundFonts](https://discord.gg/DpuJVn4) - Very small directory server 
-- [Midi Directory](https://discord.gg/3zmawFn) - Some random directory server
+- [The Black Bomb Team](https://discord.gg/Gjj679PqDz) - Public collaboration group
 
 ### Related Servers
 
