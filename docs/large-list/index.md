@@ -1,11 +1,12 @@
 # List of Largest MIDIs
 
-This is a spreadsheet for the list of largest MIDIs.
-It is based on [the wiki page](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs).
+This is a spreadsheet for the large MIDI songs that the community has ever made.
 
-Contributions are appreciated, especially the original title from the blacker, missing fields, like note intesity, size, source, etc, and finding new songs.
+This list is based on [the wiki page](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs), and was actually long abandoned by wiki contributors, so there are lots of MIDIs that's not on the list. Because of that, I try to maintain it as long as I can. The list has developed from as small as 124 songs to as big as over 300 songs.
 
-You can view the spreadsheet in the frame below or in [here](https://docs.google.com/spreadsheets/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit#gid=1711202812).
+Note that the list has been abandoned due to of loss of interest by me. [The list on the wiki](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs) is now updated independently, limited to a certain number of entries. Forking the list is appreciated.
+
+You can view the spreadsheet in the frame below or directly in [Google Sheets](https://docs.google.com/spreadsheets/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit).
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTN6X5xc1UlPvn9txVz4caVTitYz4l3fS0be2yVN5Q4EEvlTqgBDEKg26UrtY_H3GESQJusXVMtnYPA/pubhtml?widget=true&amp;headers=false" width=100% height=400px></iframe>
 
@@ -52,7 +53,7 @@ Some songs are removed from the list due to the source has lost or just hidden. 
 | Author              | Alias(es)                                                                                                                                                                  |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AdrianMR            | Adrian M. R., Astellar                                                                                                                                                     |
-| Aiyui               | AEIOU and Ilon (I-L-O-N)                                                                                                                                                   |
+| Aiyui               | AEIOU and Ilon (`ILON`)                                                                                                                                                    |
 | Charlie Yan         | Conjac Jelly Charlieyan                                                                                                                                                    |
 | CS4W                | Cristey White, ゆっくりゆーすけ                                                                                                                                            |
 | CyeDa               | Gen'you Layte, 幻妖hell shipwreck, ver. 1.02 幻妖 phantasm                                                                                                                 |
@@ -66,7 +67,6 @@ Some songs are removed from the list due to the source has lost or just hidden. 
 | The Romanticist     | FalconXL                                                                                                                                                                   |
 | Trainer Lydia       | Trainer LOLXD                                                                                                                                                              |
 | TrollfacepalmAcer78 | Acer                                                                                                                                                                       |
-| Aiyui               | AEIOU, Ilon (ILON)                                                                                                                                                         |
 | The Romanticist     | FalconXL                                                                                                                                                                   |
 | Slawička Yamá       | YAMAHAPSR 800, Simalatus Estria Songs                                                                                                                                      |
 
@@ -86,24 +86,24 @@ Some songs are removed from the list due to the source has lost or just hidden. 
 ## Number Code
 
 - Touhou Project
-  1. Bad Apple!! feat. nomico
-  2. Night of Nights
-  3. Septette for the Dead Princess
-  4. Final Savage Sister Flandre S./Last Brutal Sister Flandre Scarlet
-  5. Shanghai Teahouse
-  6. Necrofantasia
-  7. Infinite Being
-  8. Reach for the Moon ~ Immortal Smoke
-  9. U.N. Owen Was Her?
+    - `1` Bad Apple!! feat. nomico
+    - `2` Night of Nights
+    - `3` Septette for the Dead Princess
+    - `4` Final Savage Sister Flandre S./Last Brutal Sister Flandre Scarlet
+    - `5` Shanghai Teahouse
+    - `6` Necrofantasia
+    - `7` Infinite Being
+    - `8` Reach for the Moon ~ Immortal Smoke
+    - `9` U.N. Owen Was Her?
 - Undertale
-  1. Dogsong
+    - `1` Dogsong
 - Vocaloid
-  1. Two Faced Lovers
-  2. PoPiPo
-  3. Antichlorobenze
+    - `1` Two Faced Lovers
+    - `2` PoPiPo
+    - `3` Antichlorobenze
 - Beatmania
-  1. Red Zone
-  2. Evans
+    - `1` Red Zone
+    - `2` Evans
 
 <!-- ¹²³⁴⁵⁶⁷⁸⁹ -->
 

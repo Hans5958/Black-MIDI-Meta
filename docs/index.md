@@ -1,22 +1,24 @@
 <h1>Black MIDI Meta Docs</h1>
 
-> Repository of Black MIDI Meta texts and stuffs.
+> Repository of meta of Black MIDI and stuffs.
 
 Welcome to the docs. In this repository, I post some meta stuff, such as Discord servers, links, archives, etc.
 
 The docs and the repository is still work-in-progress. You can contribute if you want to.
 
+> **New!** Starting on Black MIDI? [Read the Quick Start guide!](guide/quick-start/pfa.md)
+
 ### Black MIDI Meta
 
-Black MIDI Meta is a repository for Black MIDI meta stuff.
+Black MIDI Meta is a repository for meta stuff of Black MIDI.
 
-The main repository is on <https://github.com/Hans5958/Black-MIDI-Meta> ([short link](https://px.tru.io/r/BMMeta)). Other files that took quite a space is located on [the No History repository](https://github.com/Hans5958/Black-MIDI-Meta-No-History/).
+The main repository is on <https://github.com/Hans5958/Black-MIDI-Meta>. Other files that took quite a space is located on [the No History repository](https://github.com/Hans5958/Black-MIDI-Meta-No-History/).
 
 ### Black MIDI Meta Docs
 
-Black MIDI Meta Docs is a documentation for Black MIDI meta texts, such as lists and theories.
+Black MIDI Meta Docs is a documentation for meta of Black MIDI, such as lists and theories.
 
-You can read the docs on <https://hans5958.github.io/Black-MIDI-Meta> ([short link](https://px.tru.io/r/BMMetaDocs)).
+You can read the docs on <https://hans5958.github.io/Black-MIDI-Meta>.
 
 ### Domino English Translation
 
@@ -37,13 +39,13 @@ This list was actually long abandoned by wiki contributors, so there are lots of
 
 The update is monthly and you can submit MIDIs by contacting me in any way you can, such as Discord or the wiki page.
 
-You can read more info in [here](large-list). Otherwise, you can visit the Google Drive spreadsheet in <https://px.tru.io/r/BMLL> ([direct link](https://docs.google.com/spreadsheets/u/1/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit?usp=sharing)) or check the list on the wiki page [here](https://officialblackmidi.fandom.com/wiki/List_of_Largest_MIDIs).
+You can read more info inside [Black MIDI Meta Docs](large-list/index.md). Otherwise, you can visit [the spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit).
 
 ### Black MIDI Software Archive
 
 Black MIDI Software Archive is an archive of softwares that is used on the Black MIDI community and hosted in Google Drive. It consist of more than 30 softwares from various developers. Each softwares consist public versions and test versions that are public.
 
-You can visit the archive in <https://px.tru.io/r/BMSA> ([direct link](https://drive.google.com/drive/folders/1K3DytP7EXvFBuYV3CQQQ7BYRuY3iESaC?usp=sharing)).
+You can visit the archive in [Google Drive](https://drive.google.com/drive/folders/1K3DytP7EXvFBuYV3CQQQ7BYRuY3iESaC).
 
 ## Credits
 

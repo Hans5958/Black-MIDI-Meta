@@ -15,7 +15,7 @@ As always, keep giving the feedback for the future. Thanks for reading, and agai
 PS. By the way, all information sheets have been moved to https://hans5958.github.io/Black-MIDI-Meta/large-list/.
 
 > [Click here to see the message on Discord.](#)  
-> [Click here to see the changelog.](../changelog/#february-2021-update-26-february-2021)
+> [Click here to see the changelog.](changelog.md#february-2021-update-26-february-2021)
 
 ## October 2019 Update <small>(26 October 2019)</small>
 
@@ -33,7 +33,7 @@ By the way, we've finally reached the **400 songs milestone**! **13** new songs,
 You may contribute by correcting mistakes, suggesting songs, etc. Thanks for reading!
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/637679298580447257)  
-> [Click here to see the changelog.](../changelog/#october-2019-update-26-october-2019)
+> [Click here to see the changelog.](changelog.md#october-2019-update-26-october-2019)
 
 ## August 2019 Update <small>(12 September 2019)</small>
 
@@ -50,7 +50,7 @@ By the way, **Ievan's Polka Infinite Star Wars** became is now the **largest non
 Just like last month, you may contribute by correcting mistakes, suggesting songs, etc. Thanks for reading!
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/622084047409119232)  
-> [Click here to see the changelog.](../changelog/#august-2019-update-12-september-2019)
+> [Click here to see the changelog.](changelog.md#august-2019-update-12-september-2019)
 
 ## July 2019 Update <small>(30 July 2019)</small>
 
@@ -67,7 +67,7 @@ I've still got some songs on the pending list, such as the newly released **Oura
 Just like last month, you may contribute by correcting mistakes, suggesting songs, etc. Thanks for reading!
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/605735355433615380)  
-> [Click here to see the changelog.](../changelog/#july-2019-update-30-july-2019)
+> [Click here to see the changelog.](changelog.md#july-2019-update-30-july-2019)
 
 ## June 2019 Update <small>(28 June 2019)</small>
 
@@ -88,7 +88,7 @@ Finally, you may contribute by correcting mistakes, suggesting songs, etc. Speak
 Alright, thanks for reading!
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/594210095055896589)  
-> [Click here to see the changelog.](../changelog/#june-2019-update-28-june-2019)
+> [Click here to see the changelog.](changelog.md#june-2019-update-28-june-2019)
 
 ## May 2019 Update <small>(30 May 2019)</small>
 
@@ -110,7 +110,7 @@ You may contribute, by checking the spreadsheet or suggesting songs, and please 
 Thanks for reading.
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/583588261285330954)  
-> [Click here to see the changelog.](../changelog/#may-2019-update-30-may-2019)
+> [Click here to see the changelog.](changelog.md#may-2019-update-30-may-2019)
 
 ## Second April 2019 Update <small>(26 April 2019)</small>
 
@@ -142,7 +142,7 @@ I have fixed some errors, for sure. You may contribute, by checking the spreadsh
 Thank you for reading, and what a long write-up.
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/571356376715231232)  
-> [Click here to see the changelog.](../changelog/#second-april-2019-update-26-april-2019)
+> [Click here to see the changelog.](changelog.md#second-april-2019-update-26-april-2019)
 
 ## First April 2019 Update <small>(1 April 2019)</small>
 
@@ -166,7 +166,7 @@ I have fixed some errors, such as on "Ashes" by Arduano and "Happy Theme of DEAT
 Again, please somebody update the list. Tell Keppy or other BMT members.
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/562139247319187456)  
-> [Click here to see the changelog.](../changelog/#first-april-2019-update-1-april-2019)
+> [Click here to see the changelog.](changelog.md#first-april-2019-update-1-april-2019)
 
 ## Second March 2019 Update <small>(30 March 2019)</small>
 
@@ -181,7 +181,7 @@ There's also updates related to the **blacker fields for mergers**. Proper credi
 Oh, yeah. Please somebody update the list. Tell Keppy or maybe other wiki's sysop, maybe BMT-A.
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/561509391967322112)  
-> [Click here to see the changelog.](../changelog/#second-march-2019-update-30-march-2019)
+> [Click here to see the changelog.](changelog.md#second-march-2019-update-30-march-2019)
 
 ## First March 2019 Update <small>(2 March 2019)</small>
 
@@ -192,21 +192,21 @@ Lots of kumakki songs, Night of Nights, and accidentally fulfiled RAPPE requests
 Changelog is now compared with latest revision on the wiki.
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/561509391967322112)  
-> [Click here to see the changelog.](../changelog/#first-march-2019-update-2-march-2019)
+> [Click here to see the changelog.](changelog.md#first-march-2019-update-2-march-2019)
 
 ## Third February 2019 Update <small>(12 February 2019)</small>
 
 yall can comment, so we can get that epic victory royale
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/544877756543139841)  
-> [Click here to see the changelog.](../changelog/#third-february-2019-update-12-february-2019)
+> [Click here to see the changelog.](changelog.md#third-february-2019-update-12-february-2019)
 
 ## Second February 2019 Update <small>(7 February 2019)</small>
 
 still waiting for the edit permission, please check guys, zones still not included
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/543072576080183311)  
-> [Click here to see the changelog.](../changelog/#second-february-2019-update-7-february-2019)
+> [Click here to see the changelog.](changelog.md#second-february-2019-update-7-february-2019)
 
 ## First February 2019 Update <small>(6 February 2019)</small>
 
@@ -216,4 +216,4 @@ what should i add/remove now
 coming soon addition of the ucmp, pondoffy, and some by carlos
 
 > [Click here to see the message on Discord.](https://discordapp.com/channels/139268201803546624/463557573417893888/542695116847185932)  
-> [Click here to see the changelog.](../changelog/#first-february-2019-update-6-february-2019)
+> [Click here to see the changelog.](changelog.md#first-february-2019-update-6-february-2019)
