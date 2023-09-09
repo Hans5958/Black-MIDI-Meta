@@ -9,7 +9,9 @@
 - [Synthesia (9.0)](https://www.synthesiagame.com/downloadSynthesia?product=Synthesia&platform=win_sa&version=9) - Latest free version of Synthesia.
 - [Ultralight MIDI Player](https://pipiraworld.web.fc2.com/ump/en.html) - Alternative to PFA, made with Java. Can be used for rendering MIDI files.
 - [Zenith](https://github.com/arduano/Zenith-MIDI/) - ⭐ MIDI renderer, made with C#, alternative to UMP.
-- [Kiva](https://github.com/arduano/Kiva/) - ⭐ MIDI player, alternative to PFA.
+- [Kiva](https://github.com/arduano/Kiva/) - MIDI player, alternative to PFA. (Replaced by Wasabi)
+- [Wasabi](https://github.com/arduano/wasabi) - ⭐ MIDI player, alternative to PFA, while focusing on performance
+- [Chikara](https://github.com/Kaydax/Chikara) - MIDI player (Replaced by Wasabi)
 - [mmidi](https://web.archive.org/web/20210303204501/http://sono.9net.org/prog/mmidi/data/) - Lightweight console MIDI player.
 - [Toms's MIDI Player](http://www.grandgent.com/tom/projects/tmidi/) - Lightweight MIDI player.
 - [vanBasco's Karaoke Player](http://www.vanbasco.com/karaokeplayer/) - Basic MIDI player.
@@ -31,14 +33,17 @@
 
 ### Synth/Driver
 
-- [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI/) - ⭐ Most optimized for playing Black MIDI. Also works for general players.
+- [OmniMIDI](https://github.com/KeppySoftware/OmniMIDI/) - ⭐ Optimized for playing Black MIDI. Also works for general players.
+- [Xsynth](https://github.com/arduano/xsynth/) - ⭐ Modern MIDI Synth made from the ground up for Black MIDI playback. Supports KDMAPI and built into [Wasabi](https://github.com/arduano/wasabi)
 - [VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth) - Was most used before OmniMIDI used, good alternative.
 - [BASSMIDI Player](https://drive.google.com/drive/folders/1yzy9HowL8bao9w--u3VUGIcczF4nrCkI) - Very old driver on which OmniMIDI is based. Very slow also.
 
 ### Tools
 
-- [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - ⭐ Convert MIDI files to MP3, WAV, or OGG.	
+- [Forte](https://github.com/MyBlackMIDIScore/forte) - ⭐ Convert MIDI files to MP3, WAV, or OGG using Xsynth.
+- [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - ⭐ Convert MIDI files to MP3, WAV, or OGG.
 - [Keppy's Note Generator](https://github.com/KeppySoftware/KeppyCounterGenerator) - Render MIDITrail-like counter.
+- [flp2midi](https://github.com/Kaydax/flp2midi) - Convert FL Studio project files into midi files faster than exporting directly from FL Studio
 - [Simple AF Converter](https://github.com/DixelU/SAFC/releases) - Mostly used for merging MIDI files.
 - [Simple AF Overlap Remover](https://github.com/DixelU/SAFOR/releases) - Remove overlaps on MIDI files.
 - [ImageToMidi](https://cdn.discordapp.com/attachments/342003805270966284/591137488970448896/ImageToMidi.exe) - Converts image to a MIDI file. Good for making arts.
@@ -55,6 +60,7 @@
 
 ### Video Editors
 
+- [Kdenlive](https://kdenlive.org/en/) - Free and Open Source video editor made by the KDE developers 
 - [Shotcut](https://shotcut.org/) - Free video editor.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Free and professional video editor.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Paid video editor.
@@ -82,17 +88,18 @@
 ### Community
 
 - [Black MIDI Community Hub](https://discord.gg/s42aft8) - Main, global community
+- [Creative Society](https://discord.gg/2jb7hTymAH) - Alterative to the BMC. Dedicated to not only Black MIDI, but other artistic skills
 - [黑乐谱活动社区 Black MIDI Score Activity Community](https://discord.gg/m9q2QCAcdN) - China-based community
 - [Black MIDI Indonesia Community [BMIC] 🇮🇩](https://discord.gg/3VXrmnQUTR) - Indonesia-based community
 
 ### Programs
 
-- [Arduano Dev Server](https://discord.gg/8e5FXB) - Zenith, Kiva
+- [Arduano Dev Server](https://discord.gg/8e5FXB) - Zenith, Kiva, Wasabi
 - [BetterTeam Dev Server](https://discord.gg/wwSkpN5) - BetterPFA
 	- [BetterPFA Archive](https://discord.gg/5sMugcQ)
 - [CJC Apps Discussion](https://discord.gg/uxCqAEz) - CJC Toolbox, CJCAMM, CJCOR, CJCMCG
 - [Embers](https://discord.gg/MaCxW5u) - Embers
-- [Keppy's Software](https://discord.gg/73DVswT) - KMC, OmniMIDI 
+- ~~[Keppy's Software](https://discord.gg/73DVswT) - KMC, OmniMIDI~~ [Server no longer exist]
 - [SAF Updates](https://discord.gg/CsgEW4P) - SAFOR and SAFC
 - [UMP Users](https://discord.gg/pxPRFU8) - UMP 
 
