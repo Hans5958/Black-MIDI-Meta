@@ -99,7 +99,6 @@
 	- [BetterPFA Archive](https://discord.gg/5sMugcQ)
 - [CJC Apps Discussion](https://discord.gg/uxCqAEz) - CJC Toolbox, CJCAMM, CJCOR, CJCMCG
 - [Embers](https://discord.gg/MaCxW5u) - Embers
-- ~~[Keppy's Software](https://discord.gg/73DVswT) - KMC, OmniMIDI~~ [Server no longer exist]
 - [SAF Updates](https://discord.gg/CsgEW4P) - SAFOR and SAFC
 - [UMP Users](https://discord.gg/pxPRFU8) - UMP 
 
