@@ -10,7 +10,7 @@
 - [Ultralight MIDI Player](https://pipiraworld.web.fc2.com/ump/en.html) - Alternative to PFA, made with Java. Can be used for rendering MIDI files.
 - [Zenith](https://github.com/arduano/Zenith-MIDI/) - ⭐ MIDI renderer, made with C#, alternative to UMP.
 - [Kiva](https://github.com/arduano/Kiva/) - MIDI player, alternative to PFA. (Replaced by Wasabi)
-- [Wasabi](https://github.com/arduano/wasabi) - ⭐ MIDI player, alternative to PFA, while focusing on performance
+- [Wasabi](https://github.com/arduano/wasabi) - ⭐ MIDI player, alternative to PFA, while focusing on performance (Requires compilation)
 - [Chikara](https://github.com/Kaydax/Chikara) - MIDI player (Replaced by Wasabi)
 - [mmidi](https://web.archive.org/web/20210303204501/http://sono.9net.org/prog/mmidi/data/) - Lightweight console MIDI player.
 - [Toms's MIDI Player](http://www.grandgent.com/tom/projects/tmidi/) - Lightweight MIDI player.
@@ -40,8 +40,9 @@
 
 ### Tools
 
-- [Forte](https://github.com/MyBlackMIDIScore/forte) - ⭐ Convert MIDI files to MP3, WAV, or OGG using Xsynth.
-- [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - ⭐ Convert MIDI files to MP3, WAV, or OGG.
+- [Forte](https://github.com/MyBlackMIDIScore/forte) - ⭐ Convert MIDI files to MP3, WAV, or OGG using Xsynth. (Requires compilation)
+- [Keppy's MIDI Converter](https://github.com/KeppySoftware/KMC) - Convert MIDI files to MP3, WAV, or OGG. (Replaced by OmniConverter)
+- [OmniConverter](https://github.com/KaleidonKep99/OmniConverter) - ⭐ Convert MIDI files to MP3, WAV, or OGG.
 - [Keppy's Note Generator](https://github.com/KeppySoftware/KeppyCounterGenerator) - Render MIDITrail-like counter.
 - [flp2midi](https://github.com/Kaydax/flp2midi) - Convert FL Studio project files into midi files faster than exporting directly from FL Studio
 - [Simple AF Converter](https://github.com/DixelU/SAFC/releases) - Mostly used for merging MIDI files.
