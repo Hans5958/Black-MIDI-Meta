@@ -4,7 +4,7 @@ If you want to have less hassle, you can try playing Black MIDI songs with [Kiva
 
 ![](https://camo.githubusercontent.com/185b2dfc4998218b661b214832ba14adb59e38aa270d5a7cbd547f2890300e7d/68747470733a2f2f692e696d6775722e636f6d2f594430774845312e706e67)
 
-## Get Piano From Above
+## Get Kiva
 
 Kiva is hosted on GitHub. Go to [its Releases page](https://github.com/arduano/Kiva/releases/latest) and downlaod either the installer or the portable version.
 
