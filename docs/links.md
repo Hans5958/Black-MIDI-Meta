@@ -81,19 +81,24 @@
 ## Other Useful Links
 
 - [Publico (Carlos S.M.)](https://drive.google.com/drive/folders/0B-jbdgbiY_-YYm5WemFvTkM0Tnc) - Archive for all things Black MIDI by Carlos S.M.. Not frequently updated.
-- [List of Largest MIDIs](https://docs.google.com/spreadsheets/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit) - List of largest MIDIs by note count.
-- [Black MIDI Software Archive](https://drive.google.com/drive/folders/1K3DytP7EXvFBuYV3CQQQ7BYRuY3iESaC) - My archive of softwares related to Black MIDI.
+- [List of Largest MIDIs](https://docs.google.com/spreadsheets/d/1sldrGkhU41FakmdFfUL3Z1GMT2LOQzx81yy4D_ZLxKk/edit) - List of largest MIDIs by note count. Project by Hans5958.
+- [Black MIDI Software Archive](https://drive.google.com/drive/folders/1K3DytP7EXvFBuYV3CQQQ7BYRuY3iESaC) - Hans5958's archive of softwares related to Black MIDI.
 
-## Discord Servers
+## Social Media
 
-### Community
+- [Black MIDI Wiki](https://blackmidi.fandom.com/wiki/Home) - Black MIDI wiki based on Fandom.
+- [r/BlackMIDI](https://www.reddit.com/r/BlackMIDI/) - Black MIDI subreddit
+
+### Discord Servers
+
+#### Community
 
 - [Black MIDI Community Hub](https://discord.gg/s42aft8) - Main, global community
 - [Creative Society](https://discord.gg/2jb7hTymAH) - General server for artistic skills, with Black MIDI as a topic.
 - [黑乐谱活动社区 Black MIDI Score Activity Community](https://discord.gg/m9q2QCAcdN) - China-based community
 - [Black MIDI Indonesia Community [BMIC] 🇮🇩](https://discord.gg/3VXrmnQUTR) - Indonesia-based community
 
-### Programs
+#### Programs
 
 - [Arduano Dev Server](https://discord.gg/8e5FXB) - Zenith, Kiva, Wasabi
 - [BetterTeam Dev Server](https://discord.gg/wwSkpN5) - BetterPFA
@@ -103,7 +108,7 @@
 - [SAF Updates](https://discord.gg/CsgEW4P) - SAFOR and SAFC
 - [UMP Users](https://discord.gg/pxPRFU8) - UMP 
 
-### Members
+#### Members
 
 - [C.R.A.S.H.P.O.I.N.T](https://discord.gg/faSAaRN) - Trainer Lydia
 - [CJC Apps Discussion](https://discord.gg/uxCqAEz) - Charlie Yan and ooo 000
@@ -117,13 +122,21 @@
 - [Yama's & Paprika's Server](https://discord.gg/HCfSyNd) - YAMAHAPSR 800, Orangepaprika 67
 - [Zone's Server Club](https://discord.gg/BCeBuFy) - ZoneGamer
 
-### Other Servers
+#### Miscellaneous
 
 - [The Convergence](https://discord.gg/NkggT42) - Public collaboration group
 - [The Black Bomb Team](https://discord.gg/Gjj679PqDz) - Public collaboration group
 
-### Related Servers
+#### Related
 
 - [Lyricity](https://discord.gg/dog) - LyricWulf
 - [Sheet Music Boss](https://discord.gg/H4ErJyc) - Sheet Music Boss
 - [The Dark MIDI Public Server](https://discord.gg/g8GjbNq) - Dark MIDIs
+
+### Tutorials
+
+- ["So just how exactly are Black MIDIs made?"](https://www.reddit.com/r/BlackMIDI/comments/958lzp/so_just_how_exactly_are_black_midis_made/) - An informative starting point on the very basics of what goes into a Black MIDI, by Infernis.
+- [Piano that humans can't play](https://coggle.it/diagram/WXSiSCzy-gABwUNY/t/piano-that-humans-can%27t-play/92ddd600411b220c7088d6abb5368625b456fa0e36018ee3d10fa867a57d470e) -  An infographic on the different styles of not just Black MIDI, but impossible piano in general, made by Gingeas
+- [How to make your melodies not sound like a mess](https://www.reddit.com/r/BlackMIDI/comments/94vblb/how_to_make_your_melodies_not_sound_like_a_mess/) - A useful guideline for what types of chords to use on certain parts of the piano, by ScubDomino
+- [A Short Guide to Black MIDI Phrases](https://docs.google.com/document/d/1qk_vcuFpJWdXFGO3oTBW_rKF6S2tpxPNzRMYza-UM30/edit#heading=h.6jynaot9cbnq) - Lists a few phrases, their common names and typical uses, by Infernis.
+- [Black MIDI Tutorials playlist](https://www.youtube.com/playlist?list=PLuSOIzxma376hosO2zOVkZ8i5U1EJk1kI) - A playlist that features some tips and tricks on Black MIDI.

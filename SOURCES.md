@@ -3,6 +3,7 @@
 ## Meta Docs
 
 - https://pipiraworld.web.fc2.com/ump/manual/
+- https://www.reddit.com/r/BlackMIDI/wiki/index
 
 ## Resource Packs
 
