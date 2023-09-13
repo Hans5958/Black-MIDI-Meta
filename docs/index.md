@@ -2,9 +2,9 @@
 
 > Repository of meta of Black MIDI and stuffs.
 
-Welcome to the docs. In this repository, I post some meta stuff, such as Discord servers, links, archives, etc.
+Welcome to the repository. In this repository, I, Hans5958, post some meta stuff, such as Discord servers, links, archives, etc
 
-The docs and the repository is still work-in-progress. You can contribute if you want to.
+The docs and the repository is never in a "completed" state and always improving. Contributions are welcome.
 
 > **New!** Starting on Black MIDI? [Read the Quick Start guide!](guide/quick-start/pfa.md)
 
@@ -68,7 +68,7 @@ After that, you can create a pull request by clicking the "New pull request" but
 
 ## License
 
-The contents of the documentation created by Hans5958 are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+The contents of the documentation created by Hans5958 and the contributors on the repository are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 The source code (HTML, CSS and another scripting, markup or programming languages and the like) of the documentation is licensed under the terms of [MIT license](https://opensource.org/licenses/MIT).
 
