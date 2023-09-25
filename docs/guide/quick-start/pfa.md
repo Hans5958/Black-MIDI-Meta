@@ -44,4 +44,4 @@ Open OmniMIDI, press "Extensions > Windows Multimedia Wrapper", and use the "Sta
 
 ## Play a MIDI song
 
-You can now start playing Black MIDI songs now! The internet is wide enough for you to find one. Start on YouTube and search for one. Check the description to see if they provide a download link. After downloading it, press "File > Pratice Song..." and choose the MIDI file.
+You can start playing Black MIDI songs now! The internet is wide enough for you to find one. Start on YouTube and search for one. Check the description to see if they provide a download link. After downloading it, press "File > Practice Song..." and choose the MIDI file.

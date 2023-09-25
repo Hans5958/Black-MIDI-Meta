@@ -6,7 +6,7 @@ If you want to have less hassle, you can try playing Black MIDI songs with [Kiva
 
 ## Get Kiva
 
-Kiva is hosted on GitHub. Go to [its Releases page](https://github.com/arduano/Kiva/releases/latest) and downlaod either the installer or the portable version.
+Kiva is hosted on GitHub. Go to [its Releases page](https://github.com/arduano/Kiva/releases/latest) and download either the installer or the portable version.
 
 ## Get OmniMIDI (optional)
 
@@ -32,4 +32,4 @@ After downloading it, open the settings window by clicking the gear icon on the 
 
 ## Play a MIDI song
 
-You can now start playing Black MIDI songs now! The internet is wide enough for you to find one. Start on YouTube and search for one. Check the description to see if they provide a download link. After downloading it, press the folder icon on the top-left portion of Kiva and choose the MIDI file, or drag the file and drop it on Kiva.
+You can start playing Black MIDI songs now! The internet is wide enough for you to find one. Start on YouTube and search for one. Check the description to see if they provide a download link. After downloading it, press the folder icon on the top-left portion of Kiva and choose the MIDI file, or drag the file and drop it on Kiva.
