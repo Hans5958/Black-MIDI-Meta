@@ -5,6 +5,8 @@ site_url: 'https://hans5958.github.io/Black-MIDI-Meta'
 repo_name: 'GitHub'
 repo_url: 'https://github.com/Hans5958/Black-MIDI-Meta'
 
+copyright: Docs available under CC BY 4.0. Source code availabe under MIT. Other sources are subject to other rights.
+
 theme:
   name: materialx
   custom_dir: theme

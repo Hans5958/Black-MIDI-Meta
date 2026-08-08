@@ -71,7 +71,7 @@ After that, you can create a pull request by clicking the "New pull request" but
 
 ## License
 
-The contents of the documentation created by Hans5958 and the contributors on the repository are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+The contents of the documentation created by the contributors on the repository are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 The source code (HTML, CSS and another scripting, markup or programming languages and the like) of the documentation is licensed under the terms of [MIT license](https://opensource.org/licenses/MIT).
 
